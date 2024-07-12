@@ -242,7 +242,7 @@ conf_m <- readRDS("input/conference.RDS")
 # layout-ncol: 2
 # layout: "[-1, 1]"
 
-dovqun <- paste("<b>**L'Aquila**</b>", "\\newline", 
+dovqun <- paste("- <b>**L'Aquila**</b>", "\\newline", 
                 paste("<b>**", format(Sys.time(), '%d/%m/%Y'), "**</b>", sep = ""))
 ```
 
