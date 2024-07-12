@@ -227,9 +227,10 @@ conf_m <- readRDS("input/conference.RDS")
 **Professional collaboration** to perform vegetation survey in the Sirente-Velino Regional Park **Aims:** Verifying the correspondence of the preliminary Habitat Map to refine the distribution of the Habitat Natura 2000 within the Park's boundary. \hfill <b>**Nov 2022 - Dec 2022**</b> 
 
 **Professional collaboration** to elaborate the Environmental Technical Report aimed at defining the possible effects that the activities to realize the “Bike to coast” could generate at the expense of the Regional Natural Reserves "Ripari di Giobbe". “Interventions of completion of the ‘Bike to coast’ – CUP 71B18000100002. \hfill <b>**May 2023**</b> 
-\vspace{10 mm}
 
 ------------------------------------------------------------------------
+
+\vspace{10 mm}
 
 ~The presented CV was made using only opensource software; the list of publications and the bibliometrics indicators was automatically downloaded from Scopus~
 
