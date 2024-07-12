@@ -71,7 +71,7 @@ I am an environmental biologist, researcher of applied botany at University of L
     **Title:** Identification of priority sites for the conservation of terrestrial animal and plant diversity to meet European and CBD 2030 targets. **PI:** Prof. Roberto Cazzolla Gatti (University of Bologna). **D.D. n.** 739 - 29-05-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** 2022C8E2F4. **CUP:** E53D23007530006 **Budget:** 39.000,00 €
 
 -   **Principal investigator - University project for basic research** \hfill<b>**May 2022 – Dec 2022**</b>\
-    **Title:** Understanding, forecasting, and mitigating climate change's consequences on the central Apennines' high-altitude biodiversity using a multitaxon approach. **Funded by:** University of L'Aquila **Budget:** 15.000,00 €
+    **Title:** Understanding, predicting, and mitigating the impact of climate change consequences on high-altitude biodiversity in the central Apennines using a multitaxonic approach. **Funded by:** University of L'Aquila **Budget:** 15.000,00 €
 
 # Projects collaboration
 
@@ -227,16 +227,33 @@ conf_m <- readRDS("input/conference.RDS")
 **Professional collaboration** to perform vegetation survey in the Sirente-Velino Regional Park **Aims:** Verifying the correspondence of the preliminary Habitat Map to refine the distribution of the Habitat Natura 2000 within the Park's boundary. \hfill <b>**Nov 2022 - Dec 2022**</b> 
 
 **Professional collaboration** to elaborate the Environmental Technical Report aimed at defining the possible effects that the activities to realize the “Bike to coast” could generate at the expense of the Regional Natural Reserves "Ripari di Giobbe". “Interventions of completion of the ‘Bike to coast’ – CUP 71B18000100002. \hfill <b>**May 2023**</b> 
+\vspace{10 mm}
 
 ------------------------------------------------------------------------
 
-~The presented CV was made using only opensource software; the list of publications was automatically downloaded from Scopus as well as the bibliometrics indicators~
+~The presented CV was made using only opensource software; the list of publications and the bibliometrics indicators was automatically downloaded from Scopus~
 
-# Signature
+------------------------------------------------------------------------
+
+\vspace{15 mm}
+```{r}
+#| echo: FALSE
+#| fig-align: center
+# layout-ncol: 2
+# layout: "[-1, 1]"
+
+dovqun <- paste("<b>**L'Aquila**</b>", "\\newline", 
+                paste("<b>**", format(Sys.time(), '%d/%m/%Y'), "**</b>", sep = ""))
+```
+
+`r dovqun` \hspace{105 mm} <b>**Signature**</b>
 
 ```{r}
 #| echo: FALSE
+#| fig-align: right
+# layout-ncol: 2
 # layout: "[-1, 1]"
 
-knitr::include_graphics("input/firmaMichele_nb.png")
+knitr::include_graphics("input/firmaMichele_nb.png", dpi = 400) 
+
 ```
