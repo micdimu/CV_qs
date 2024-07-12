@@ -65,12 +65,10 @@ I am an environmental biologist, researcher of applied botany at University of L
 # Projects coordination
 
 -   **Unit leader** and Co-PI (Co-Principal Investigator) **Prin 2022 PNRR** \hfill<b>**Nov 2023 – ongoing**</b>\
-    **Title:** Identification of priority sites for the conservation of terrestrial animal and plant diversity to meet European and CBD 2030 targets. **PI:** Prof. Francesco Maria Sabatini (University of Bologna). **D.Dir. n.** 739 - 29-05-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** 2022C8E2F4. **CUP:** E53D23013800001 **Budget:** 94.007,00 €
-
+    **Title:** Plant Biodiversity and Ecosystem Change in protected Areas: land Use impacts and Scenario Evaluatio. **PI:** Prof. Francesco Maria Sabatini (University of Bologna). **D.D. n.** 1370 - 01-09-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** P2022JM3RZ. **CUP:** E53D23013800001 **Budget:** 94.007,00 €
 
 -   **Unit leader** and Co-PI (Co-Principal Investigator) **Prin 2022** \hfill<b>**Sep 2023 – ongoing**</b>\
-    **Title:** Identification of priority sites for the conservation of terrestrial animal and plant diversity to meet European and CBD 2030 targets. **PI:** Prof. Roberto Cazzolla Gatti (University of Bologna). **D.Dir. n.** 739 - 29-05-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** 2022C8E2F4. **CUP:** E53D23007530006 **Budget:** 39.000,00 €
-    
+    **Title:** Identification of priority sites for the conservation of terrestrial animal and plant diversity to meet European and CBD 2030 targets. **PI:** Prof. Roberto Cazzolla Gatti (University of Bologna). **D.D. n.** 739 - 29-05-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** 2022C8E2F4. **CUP:** E53D23007530006 **Budget:** 39.000,00 €
 
 -   **Principal investigator - University project for basic research** \hfill<b>**May 2022 – Dec 2022**</b>\
     **Title:** Understanding, forecasting, and mitigating climate change's consequences on the central Apennines' high-altitude biodiversity using a multitaxon approach. **Funded by:** University of L'Aquila **Budget:** 15.000,00 €
@@ -98,13 +96,13 @@ I am an environmental biologist, researcher of applied botany at University of L
 # Ph.D tutoring and lecturing
 
 -   **Ph.D. Co-supervisor** \hfill<b>**Mar 2024 – ongoing**</b>\
-    **Ph.D candidate:** Giacomo Cangelmi at the University of L'Aquila **Title:** Biodiversity and Ecosystems Cheange in protected Areas. **SSD:** BIOS-01/C (ex BIO/03). 
+    **Ph.D candidate:** Giacomo Cangelmi at the University of L'Aquila **Title:** Biodiversity and Ecosystems Cheange in protected Areas. **SSD:** BIOS-01/C (ex BIO/03).
 
 -   **Ph.D. Co-supervisor** \hfill<b>**Nov 2023 – ongoing**</b>\
-    **Ph.D candidate:** Rocio Beatriz Cortes Lobos at Alma Mater Studiorum - University of Bologna **Title:** Deep learning for modelling current and future biodiversity scenarios. **SSD:** BIOS-01/C (ex BIO/03). 
+    **Ph.D candidate:** Rocio Beatriz Cortes Lobos at Alma Mater Studiorum - University of Bologna **Title:** Deep learning for modelling current and future biodiversity scenarios. **SSD:** BIOS-01/C (ex BIO/03).
 
 -   **Ph.D. Co-supervisor** \hfill<b>**Nov 2022 – ongoing**</b>\
-    **Ph.D candidate:** Lorenzo Ricci at the University of L'Aquila **Title:** The role of Protected areas in conserving Plant Biodiversity across Europe. **SSD:** BIOS-01/C (ex BIO/03). 
+    **Ph.D candidate:** Lorenzo Ricci at the University of L'Aquila **Title:** The role of Protected areas in conserving Plant Biodiversity across Europe. **SSD:** BIOS-01/C (ex BIO/03).
 
 -   **Lecturer** for the Ph.D. candidates of the Life and Environmental Science school; Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. **AY:** 2021/2022 **Course title:** Data management and biostatistics (16h); **AY:** 2022/2023 **Course title:** Data management, visualization and reporting using R (14h); **AY:** 2023/2024 **Course title:** Management of Biological and Environmental Data with R (10h).
 
@@ -204,15 +202,15 @@ conf_m <- readRDS("input/conference.RDS")
 
 # Awards
 
--  **Top Downloaded Article:** Diversity of European habitat types is correlated with geography more than climate and human pressure **Published in:** Ecology and Evolution **Role:** First author equally contributing
+-   **Top Downloaded Article:** Diversity of European habitat types is correlated with geography more than climate and human pressure **Published in:** Ecology and Evolution **Role:** First author equally contributing
 
 # Editorial or reviwer activities
 
 -   **Managing Guest Editor** \hfill <b>**May 2022 - Jul 2024**</b>\
     **Special issue:** 'Perspectives and applications of free and open source software in ecology.' \newline <b>**Journal:**</b> Ecological Informatics
-    
+
 -   **Review Editor in Biogeography and Macroecology** \hfill <b>**Apr 2024 - ongoing**</b>\
-\newline <b>**Journal:**</b> Frontiers in Ecology and Evolution
+    \newline <b>**Journal:**</b> Frontiers in Ecology and Evolution
 
 -   **Reviewer for:** PloS One; Journal of Biogeography; Journal of Vegetation Science; Scientific Reports, Ecological Informatics, Plant Ecology, Plant Biosystem, Community ecology, Communications earth & environment.
 
