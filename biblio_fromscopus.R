@@ -81,7 +81,7 @@ simpl_auth_info <- auth_info$content$`author-retrieval-response`[[1]]
 
 sum_auth_info <- paste(
   paste("<b>**Document:**</b>", simpl_auth_info$coredata$`document-count`), 
-  paste("<b>**Cited-by:**</b>", simpl_auth_info$coredata$`citation-count`),
+  paste("<b>**Cited by:**</b>", simpl_auth_info$coredata$`citation-count`),
   paste("<b>**h-index:**</b>", simpl_auth_info$`h-index`), sep = "; ")
 
 saveRDS(sum_auth_info, "input/bblio_ind.RDS")
