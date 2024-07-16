@@ -89,10 +89,13 @@ saveRDS(sum_auth_info, "input/bblio_ind.RDS")
 
 ##### Conference
 
-confarr <- read.csv(file = "input/Conferences_NoSpecialCharacters.csv", header = T) |> 
+confarr <- read.csv(file = "input/Conferences_NoSpecialCharacters.csv", header = T, sep = ",") |> 
   mutate(From = dmy(From)) |> 
   mutate(To = dmy(To)) |> 
-  arrange(desc(To))
+  arrange(desc(To)) |> 
+  mutate(Role = paste(Role, X, X.1, X.2, sep = "; ")) |> 
+  mutate(Role = gsub("; ; ;", "", Role)) |> 
+  mutate(Role = gsub("; ;", "", Role))
 
 
 conflyout <- confarr$Conference |> 

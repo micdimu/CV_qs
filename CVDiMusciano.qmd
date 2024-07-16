@@ -247,7 +247,7 @@ dovqun <- paste("- <b>**L'Aquila**</b>", "\\newline",
                 paste("<b>**", format(Sys.time(), '%d/%m/%Y'), "**</b>", sep = ""))
 ```
 
-`r dovqun` \hspace{105 mm} <b>**Signature**</b>
+`r dovqun` \hspace{103 mm} <b>**Signature**</b>
 
 ```{r}
 #| echo: FALSE
