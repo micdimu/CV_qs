@@ -96,13 +96,13 @@ I am an environmental biologist, researcher of applied botany at University of L
 # Ph.D tutoring and lecturing
 
 -   **Ph.D. Co-supervisor** \hfill<b>**Mar 2024 – ongoing**</b>\
-    **Ph.D candidate:** Giacomo Cangelmi at the University of L'Aquila **Title:** Biodiversity and Ecosystems Cheange in protected Areas. **SSD:** BIOS-01/C (ex BIO/03).
+    **Ph.D candidate:** Giacomo Cangelmi at the University of L'Aquila **Title:** Biodiversity and Ecosystems Cheange in Protected Areas. **SSD:** BIOS-01/C (ex BIO/03).
 
 -   **Ph.D. Co-supervisor** \hfill<b>**Nov 2023 – ongoing**</b>\
     **Ph.D candidate:** Rocio Beatriz Cortes Lobos at Alma Mater Studiorum - University of Bologna **Title:** Deep learning for modelling current and future biodiversity scenarios. **SSD:** BIOS-01/C (ex BIO/03).
 
 -   **Ph.D. Co-supervisor** \hfill<b>**Nov 2022 – ongoing**</b>\
-    **Ph.D candidate:** Lorenzo Ricci at the University of L'Aquila **Title:** The role of Protected areas in conserving Plant Biodiversity across Europe. **SSD:** BIOS-01/C (ex BIO/03).
+    **Ph.D candidate:** Lorenzo Ricci at the University of L'Aquila **Title:** The role of Protected Areas in conserving Plant Biodiversity across Europe. **SSD:** BIOS-01/C (ex BIO/03).
 
 -   **Lecturer** for the Ph.D. candidates of the Life and Environmental Science school; Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. **AY:** 2021/2022 **Course title:** Data management and biostatistics (16h); **AY:** 2022/2023 **Course title:** Data management, visualization and reporting using R (14h); **AY:** 2023/2024 **Course title:** Management of Biological and Environmental Data with R (10h).
 
