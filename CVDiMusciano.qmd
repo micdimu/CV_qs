@@ -47,7 +47,7 @@ I am an environmental biologist, researcher of applied botany at University of L
 
 # Current work position
 
--   **Ricercatore a Tempo Determinato (RTD-a) - Assistant Professor** \hfill<b>**Oct 2022 - Today**</b>\
+-   **Ricercatore a Tempo Determinato (RTD-a) - Assistant Professor** \hfill<b>**Feb 2022 - Today**</b>\
     University of L'Aquila, L'Aquila - Member of the research Group in Laboratory of Cartography, Ecology and Modelling (LACEMOD) - Member of the research Group in Biodiversity and Macroecology (BIOME) Alma Mater Studiorum - University of Bologna **SSD:** BIOS-01/C (ex BIO/03).
 
 # Qualification
@@ -57,7 +57,7 @@ I am an environmental biologist, researcher of applied botany at University of L
 # Accademic experience
 
 -   **Post-Doctoral fellowship** \hfill<b>**Sep 2020 – Jan 2022**</b>\
-    Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b>  Spatio-temporal dynamics in plant communities using innovative ecological modeling techniques. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
+    Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b>  Spatio-temporal dynamics in plant communities using innovative ecological modeling techniques. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03). 
 
 -   **Scholarship** \hfill<b>**Jun 2020 – Aug 2020**</b>\
     Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b> Monitoring and prediction of habitat conservation status using ecological modelling. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
@@ -65,10 +65,10 @@ I am an environmental biologist, researcher of applied botany at University of L
 # Projects coordination
 
 -   **Unit leader** and Co-PI (Co-Principal Investigator) **Prin 2022 PNRR** \hfill<b>**Nov 2023 – ongoing**</b>\
-    **Title:** Plant Biodiversity and Ecosystem Change in protected Areas: land Use impacts and Scenario Evaluatio. **PI:** Prof. Francesco Maria Sabatini (University of Bologna). **D.D. n.** 1370 - 01-09-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** P2022JM3RZ. **CUP:** E53D23013800001 **Budget:** 94.007,00 €
+    **Title:** Plant Biodiversity and Ecosystem Change in protected Areas: land Use impacts and Scenario Evaluatio. **PI:** Prof. Francesco Maria Sabatini (University of Bologna). **D.D. n.** 1370 - 01-09-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** P2022JM3RZ. **CUP:** E53D23013800001 **Budget:** 94.007,00 € - Competitive Research Funding -
 
 -   **Unit leader** and Co-PI (Co-Principal Investigator) **Prin 2022** \hfill<b>**Sep 2023 – ongoing**</b>\
-    **Title:** Identification of priority sites for the conservation of terrestrial animal and plant diversity to meet European and CBD 2030 targets. **PI:** Prof. Roberto Cazzolla Gatti (University of Bologna). **D.D. n.** 739 - 29-05-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** 2022C8E2F4. **CUP:** E53D23007530006 **Budget:** 39.000,00 €
+    **Title:** Identification of priority sites for the conservation of terrestrial animal and plant diversity to meet European and CBD 2030 targets. **PI:** Prof. Roberto Cazzolla Gatti (University of Bologna). **D.D. n.** 739 - 29-05-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** 2022C8E2F4. **CUP:** E53D23007530006 **Budget:** 39.000,00 € - Competitive Research Funding -
 
 -   **Principal investigator - University project for basic research** \hfill<b>**May 2022 – Dec 2022**</b>\
     **Title:** Understanding, predicting, and mitigating the impact of climate change consequences on high-altitude biodiversity in the central Apennines using a multitaxonic approach. **Funded by:** University of L'Aquila **Budget:** 15.000,00 €
