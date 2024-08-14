@@ -10,7 +10,7 @@ if(!dir.exists("input")){
   dir.create("input")
 }
 
-quarto_add_extension(extension = "mps9506/quarto-cv", no_prompt = T)
+#quarto_add_extension(extension = "mps9506/quarto-cv", no_prompt = T)
 #### Publication section #####
 
 
@@ -87,7 +87,7 @@ sum_auth_info <- paste(
 saveRDS(sum_auth_info, "input/bblio_ind.RDS")
 
 
-##### Conference
+##### Conference #####
 
 confarr <- read.csv(file = "input/Conferences_NoSpecialCharacters.csv", header = T, sep = ",") |> 
   mutate(From = dmy(From)) |> 
@@ -111,5 +111,51 @@ conflyout <- confarr$Conference |>
 
 saveRDS(conflyout, "input/conference.RDS")
 
+##### Poster #####
 
+confarr_post <- read.csv(file = "input/Posters_NoSpecialCharacters.csv", header = T, sep = ",") |> 
+  mutate(From = dmy(From)) |> 
+  mutate(To = dmy(To)) |> 
+  arrange(desc(To)) 
 
+conflyout_post <- confarr_post$Conference |> 
+  (\(.)gsub("th ", "^th^ ", ., fixed = T))() |> 
+  (\(.)gsub("3rd ", "3^rd^ ", ., fixed = T))() |> 
+  (\(.)gsub("2nd ", "2^nd^ ", ., fixed = T))() |>
+  (\(.)gsub("1st ", "1^st^ ", ., fixed = T))() |> 
+  paste(" (", confarr_post$Organization,")", sep = "") |> 
+  paste(gsub("Di Musciano M.", " <b>**Di Musciano M.**</b>", confarr_post$Author), confarr_post$Title, 
+        paste("<b>**", confarr_post$Role, "**</b>", sep = ""), 
+        paste(confarr_post$Where, " (", confarr_post$From, " - ", confarr_post$To, ").", sep = ""), sep = " - ") |> 
+  paste(collapse = " \\newline \\newline ") |> 
+  (\(.)paste("- ", .))()
+
+saveRDS(conflyout_post, "input/poster.RDS")
+
+#### summary conferences ####
+
+sum_post <- read.csv(file = "input/Conferences_NoSpecialCharacters.csv", header = T, sep = ",") |> 
+  dplyr::select(Role, X, X.1) |> 
+  pivot_longer(everything()) |> 
+  filter(value != "") |> 
+  pull(value) |> 
+  c(read.csv(file = "input/Posters_NoSpecialCharacters.csv", header = T, sep = ",") |> 
+  pull(Role))
+  
+sum_conf <- sum_post |> 
+  as.data.frame() |>
+  filter(sum_post != "Chair") |> 
+  mutate(sum_post = case_when(
+    sum_post == "Speaker" ~ "Oral Communications",
+    TRUE ~ sum_post
+  )) |> 
+  mutate(sum_post = factor(sum_post, levels = c("Oral Communications", "Invited speaker", "Poster", "Member of the Scientific Committee", "Member of the Organizing Committee"))) |>
+  count(sum_post)
+  
+confsumm_lyout <- paste(paste("<b>**", sum_conf$sum_post, "**</b>", sep = ""), " = ", sum_conf$n) |> 
+  paste(collapse = " \\newline") |> 
+  (\(.)paste("- ", .))()
+
+saveRDS(confsumm_lyout, "input/sum_conf.RDS")
+
+  

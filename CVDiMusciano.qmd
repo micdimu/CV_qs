@@ -35,7 +35,7 @@ library(RefManageR)
 
 # Research Interests
 
-I am an environmental biologist, researcher of applied botany at University of L’Aquila, with a background in alpine plant ecology, ecological modelling, and plant dispersal traits. I am currently working on past and present factors shaping diversity patterns of plant communities from micro to macro scale. Focusing on mountain ecosystems, my principal aim is to disentangle the role of climate, topographic and anthropogenic factors on the taxonomic, functional, and phylogenetic composition and dissimilarity of plant communities. I'm currently focusing also on conservation biology investigating the role of protect areas in conserving plant biodiversity.
+I am an environmental biologist, researcher of applied botany at University of L’Aquila, with a background in alpine plant ecology, ecological modelling, and plant dispersal traits. I am currently working on past and present factors shaping diversity patterns of plant communities from micro to macro scale. Focusing on mountain ecosystems, my principal aim is to disentangle the role of climate, topographic and anthropogenic factors on the taxonomic, functional, and phylogenetic composition and dissimilarity of plant communities. I'm currently focusing also on conservation biology investigating the role of protect areas in conserving biodiversity.
 
 # Main research Topics
 
@@ -57,7 +57,7 @@ I am an environmental biologist, researcher of applied botany at University of L
 # Accademic experience
 
 -   **Post-Doctoral fellowship** \hfill<b>**Sep 2020 – Jan 2022**</b>\
-    Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b>  Spatio-temporal dynamics in plant communities using innovative ecological modeling techniques. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03). 
+    Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b>  Spatio-temporal dynamics in plant communities using innovative ecological modeling techniques. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
 
 -   **Scholarship** \hfill<b>**Jun 2020 – Aug 2020**</b>\
     Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b> Monitoring and prediction of habitat conservation status using ecological modelling. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
@@ -75,17 +75,17 @@ I am an environmental biologist, researcher of applied botany at University of L
 
 # Projects collaboration
 
--   **Associate Partner** of the **Horizon Europe** \hfill<b>**2024 – ongoing**</b>\
-    **Title:** Biodiversity Building Blocks for policy B3. **Coordinator:** Agentschap Plantentuin Meise. **DOI** 10.3030/101059592. **Funded under:** Food, Bioeconomy Natural Resources, Agriculture and Environment. **Grant agreement ID:** 101059592.
-
 -   **Coordinator of the MIREN Rock - Central Apennine site** \hfill<b>**May 2024 – ongoing**</b>\
     **Title:** Mountain Invasion Research Network (MIREN) rock survey - Monitoring site Central Apennines, Italy. **Project coordinator:** Koenraad Van Meerbeek
 
--   **Member of the Scientific Advisory Board - TracEve** \hfill<b>**Mar 2023 – ongoing**</b>\
-    **Title:** Tracing the evergreen broad-leaved species and their spread. **Coordinator:** University of Innsbruck. **Link:** https://www.uibk.ac.at/en/projects/traceve/
-
+-   **Associate Partner** of the **Horizon Europe** \hfill<b>**Apr 2024 – ongoing**</b>\
+    **Title:** Biodiversity Building Blocks for policy B3. **Coordinator:** Agentschap Plantentuin Meise. **DOI** 10.3030/101059592. **Funded under:** Food, Bioeconomy Natural Resources, Agriculture and Environment. **Grant agreement ID:** 101059592.
+    
 -   **Member of the team MIREN - La Palma site** \hfill<b>**March 2024 – ongoing**</b>\
     **Title:** Mountain Invasion Research Network (MIREN) - Monitoring site La Palma, Canary Islands, Spain. **Site coordinator:** Prof. Anke Jentsch
+
+-   **Member of the Scientific Advisory Board - TracEve** \hfill<b>**Mar 2023 – ongoing**</b>\
+    **Title:** Tracing the evergreen broad-leaved species and their spread. **Coordinator:** University of Innsbruck. **Link:** https://www.uibk.ac.at/en/projects/traceve/
 
 -   **Member Staff - Biodiversity Monitoring Plan** \hfill<b>**Aug 2020 – Apr 2021**</b>\
     **Title:** Development of a National Plan for Biodiversity Monitoring. **Coordinator:** Prof. Alessandro Chiarucci. **Founded:** National Agency for Environmental Research and Protection (ISPRA)
@@ -132,9 +132,11 @@ I am an environmental biologist, researcher of applied botany at University of L
 
 -   Tutoring for pratical lecture, course: **Statistical analysis and modelling - Module 2** (10h) Master degree in Science and Management of Nature. **Course lecturer:** Prof. Piero Zannini. <b>**Accademic Year:**</b> 2021-2022. <b>**Semester:**</b> I.
 
--   Tutoring for laboratory and fieldwork activities, course: **Plant Ecology** (6h) Bachelor degree in Environmental Science and Technology. **Course lecturer:** Prof. Anna Rita. <b>**Accademic Years:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semester:**</b> II.
+-   Tutoring for laboratory and fieldwork activities, course: **Plant Ecology** (6h) Bachelor degree in Environmental Science and Technology. **Course lecturer:** Prof. Anna Rita Frattaroli. <b>**Accademic Years:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semester:**</b> II.
 
--   Tutoring for laboratory and activities, course: **Applied Botany** (6h) Master degree in Environmental Biology and Ecosystem Management. **Course lecturer:** Prof. Anna Rita. <b>**Accademic Years:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semester:**</b> II.
+-   Tutoring for laboratory and activities, course: **Applied Botany** (6h) Master degree in Environmental Biology and Ecosystem Management. **Course lecturer:** Prof. Anna Rita Frattaroli. <b>**Accademic Years:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semester:**</b> II.
+
+-   <b>**Summary of the teaching activities in the last 3 AYs**</b> \newline - \hspace{1 mm} AY 2023/24 **100h** bachelor and master degrees + **10h** Ph.D. school \newline - \hspace{1 mm} AY 2022/23 **90h** bachelor and master degrees + **14h** Ph.D. school \newline  - \hspace{1 mm} AY 2021/22 **38h** bachelor and master degrees + **16h** Ph.D. school
 
 # Accademic background
 
@@ -154,6 +156,10 @@ I am an environmental biologist, researcher of applied botany at University of L
 
 -   **Alpine Plant Ecology Summer School** \hfill <b>**Jul 2018**</b>\
     **Organized by:** University of Basel and the Alpine Research Station Furka (ALPFOR). \newline Furka Pass, 2440 m a.s.l., Swiss central Alps, Switzerland. **Lecturer** Prof. Christian Körner, Prof. Jürg Stöcklin, Prof. Jonathan Levine, Dr. Erika Hiltbrunner
+    
+-   **Stage at the "Centre alpien de Phytogéographie"** \hfill <b>**Jul 2018**</b>\ 
+**Aims:** Sampling alpine vegetation. \newline Alpine Garden "Flore-Alpe", Champex-Lac, Switzerland. - **Tutor:** Prof. Jean Paul Theurillat
+
 
 -   **Traineeship at Maiella National Park** \hfill <b>**Apr 2015 - Sep 2015**</b>\
     Seeds bank and botanical garden “Michele Tenore”. **Aims:** Laboratory activities focused on gemination ecology, ex-situ conservation, restocking and reintroduction of threatened species, seeds collection. \newline - **Tutor:** Dott. Luciano Di Martino
@@ -184,10 +190,10 @@ bblio_ind <- readRDS("input/bblio_ind.RDS")
 
 ```
 
-`r bblio_ind`
+-   `r bblio_ind`
 
 # Conferences
-
+-   **_Speaker, invited speaker or member of the organizing/scientific committee_**
 ```{r}
 #| echo: false
 #| warning: false
@@ -199,6 +205,34 @@ conf_m <- readRDS("input/conference.RDS")
 ```
 
 `r conf_m`
+
+-   **_Poster_**
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+poster <- readRDS("input/poster.RDS")
+
+```
+
+`r poster`
+
+\vspace{5 mm}
+
+-   **_Summary_**
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+sum_conf <- readRDS("input/sum_conf.RDS")
+
+```
+
+`r sum_conf`
 
 # Awards
 
@@ -237,6 +271,7 @@ conf_m <- readRDS("input/conference.RDS")
 ------------------------------------------------------------------------
 
 \vspace{15 mm}
+
 ```{r}
 #| echo: FALSE
 #| fig-align: center
