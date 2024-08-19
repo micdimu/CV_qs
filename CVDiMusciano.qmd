@@ -35,7 +35,7 @@ library(RefManageR)
 
 # Research Interests
 
-I am an environmental biologist, researcher of applied botany at University of L’Aquila, with a background in alpine plant ecology, ecological modelling, and plant dispersal traits. I am currently working on past and present factors shaping diversity patterns of plant communities from micro to macro scale. Focusing on mountain ecosystems, my principal aim is to disentangle the role of climate, topographic and anthropogenic factors on the taxonomic, functional, and phylogenetic composition and dissimilarity of plant communities. I'm currently focusing also on conservation biology investigating the role of protect areas in conserving biodiversity.
+I am an environmental biologist, and researcher of applied botany at the University of L’Aquila, with a background in alpine ecology, ecological modelling, and plant traits. I am currently working on past and present factors shaping diversity patterns and processes of plant communities (vegetation) from micro to macro scale. Focusing mostly on mountain ecosystems, my principal aim is to disentangle the role of climate, topographic and anthropogenic factors on the taxonomic, functional, and phylogenetic composition and dissimilarity of plant communities. I'm currently working on topics related to conservation biology, trying to disentangle the effectiveness of protected areas in conserving biodiversity. Last but not least, since 2023, I've joined projects focused on Islands, of which some aim to investigate the ecological dynamics of plant communities in small islands.
 
 # Main research Topics
 
@@ -147,7 +147,7 @@ Protection and Research (ISPRA). **Link:** https://ndm.isprambiente.it/attivita/
 -   **Ph.D. in Life and Environmental Science** \hfill <b>**Nov 2016 - Oct 2019**</b>\
     **SSD:** BIOS-01/C (ex BIO/03) **Dissertation:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Excellent cum laude** \newline University of L’Aquila, L'Aquila, Italy. \newline - **Advisor:** Prof. Anna Rita Frattaroli; \newline - **Co-Advisor:** Prof. Jean-Paul Theurillat
 
--   **Dual Master Degree in Environmental Biology** \hfill <b>**Sep 2014 - Jul 2016**</b>\
+-   **Dual Master's Degree in Environmental Biology** \hfill <b>**Sep 2014 - Jul 2016**</b>\
     Master in Environmental Biology, University of L’Aquila, L’Aquila, Italy; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Thesis title:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** \newline - **Advisor:** Prof. Anna Rita Frattaroli; \newline - **Co-Advisor:** Prof. Angela Stanisci
 
 -   **Bachelor's Degree in Environmental Science and technology** \hfill <b>**Sep 2011 - Jul 2014**</b>\
