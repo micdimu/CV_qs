@@ -48,7 +48,8 @@ I am an environmental biologist, and researcher of applied botany at the Univers
 # Current work position
 
 -   **Ricercatore a Tempo Determinato (RTD-a) - Assistant Professor** \hfill<b>**Feb 2022 - Today**</b>\
-    University of L'Aquila, L'Aquila - Member of the research Group in Laboratory of Cartography, Ecology and Modelling (LACEMOD) - Member of the research Group in Biodiversity and Macroecology (BIOME) Alma Mater Studiorum - University of Bologna **SSD:** BIOS-01/C (ex BIO/03).
+    University of L'Aquila, L'Aquila - Member of the research Group in Laboratory of Cartography, Ecology and Modelling (LACEMOD) - Member of the research Group in Biodiversity and Macroecology (BIOME) Alma Mater Studiorum - University of Bologna **SSD:** BIOS-01/C (ex BIO/03). \newline
+    **Additional information:**</b>\ Ricercatore a tempo determinato lettera A) C. 3 ART. 24 L. 240/2010 - Programma Operativo Nazionale "Ricerca-Innovazione" 2014-2020 (PON) risorse FSE-REACT EU DM 10 agosto 2021, n. 1062; Azione IV.6 - Contratti di ricerca su tematiche Green - D.R. Rep. n. 1049/2021 Prot. N. 119177 del 19/11/2021 - CUP D.M. 1062/2021 E15F21004400001 - Project code: DM1062_GREEN_MESVA
 
 # Qualification
 
@@ -88,8 +89,10 @@ I am an environmental biologist, and researcher of applied botany at the Univers
     **Title:** Tracing the evergreen broad-leaved species and their spread. **Coordinator:** University of Innsbruck. **Link:** https://www.uibk.ac.at/en/projects/traceve/
     
 -   **Lecturer** \hfill<b>**Jan 2022 – May 2022**</b>\
-**Title:** Network per lo studio della diversità micologica (ndm); **Contribute title:** Ecosistemi e habitat terrestri **Coordinator:** Italian Institute for Environmental
-Protection and Research (ISPRA). **Link:** https://ndm.isprambiente.it/attivita/educazione-e-formazione-ambientale/percorso-formativo-di-micologia-ambientale/
+**Title:** Network for mycological diversity studies (ndm); **Contribute title:** Ecosistem and terrestrial habitat **Coordinator:** Italian Institute for Environmental Protection and Research (ISPRA). **Link:** https://ndm.isprambiente.it/attivita/educazione-e-formazione-ambientale/percorso-formativo-di-micologia-ambientale/
+
+-   **Data Contributor** \hfill<b>**Sep 2020 – ongoing**</b>\
+**Title:** SoilTemp (global database of soil and near surface microclimate time series). **Contribute:** Data from several dataloggers (<50) placed in remote areas (encompassing high elevation of the Apennines and glacier). **Coordinator:** Jonas Lembrechts. **Link:** https://www.soiltempproject.com/
 
 -   **Member Staff - Biodiversity Monitoring Plan** \hfill<b>**Aug 2020 – Apr 2021**</b>\
     **Title:** Development of a National Plan for Biodiversity Monitoring. **Coordinator:** Prof. Alessandro Chiarucci. **Founded:** National Agency for Environmental Research and Protection (ISPRA)
