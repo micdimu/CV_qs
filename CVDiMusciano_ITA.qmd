@@ -1,0 +1,298 @@
+---
+title: "Curriculum Vitae"
+author: "Michele Di Musciano, Ph.D."
+position: ""
+address: "Ricercatore a Tempo Determinato lett. A (RtdA) Università Degli Studi dell'Aquila" 
+phone: + 39 3337432223
+email: michele.dimusciano@univaq.it
+github: micdimu
+orcid: 0000-0002-3130-7270
+fontawesome: yes
+date: "`r format(Sys.time(), '%B %Y')`"
+fontsize: 11pt
+format:
+  quarto-cv-pdf: default
+editor: visual
+bibliography: refs.bib
+bibliographystyle: apa
+---
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| context: server
+library(dplyr)
+library(ggplot2)
+library(tidyverse)
+library(vitae)
+library(rscopus)
+library(tidyverse)
+library(bibtex)
+library(rcrossref)    
+library(RefManageR)
+```
+
+# Attività di ricerca
+
+Sono un biologo ambientale di formazione e attualmente ricercatore a tempo determinato presso l'Università degli Studi dell'Aquila. Il mio background scientifico è principalmente legato all'ecologia alpina, la modellistica ecologica, e i tratti funzionali delle specie vegetali. Attualmente mi sto occupando di identificare i principali fattori ambientali che governano la distribuzione e i processi delle comunità vegetali. Concentrando i miei sforzi principalmente in ecosistemi montani, i miei obiettivi principali sono quelli di quantificare il ruolo del clima, topografia e impatto dell'uomo sulla diversità vegetale dal punto di vista tassonomico, funzionale e filogenetico. Attualmente mi sto occupando anche di temi legati alla conservazione della biodiversità, cercando nello specifico, di quantificare l'efficacia delle aree protette nel preservare la biodiverità. Negli ultimi due anni, inoltre, sono stato coinvolto in diversi progetti riguardanti le Isole, alcuni dei quali focalizzati nello studio della dinamica vegetale nelle piccole isole.
+
+# Principali topic di ricerca
+
+1)  Ecologia alpina;
+2)  Modellistica ecologica;
+3)  Conservazione della Biodiversità;
+4)  Scienza della Vegetazione;
+5)  Biogeografia insulare.
+
+# Attuale posizione lavorativa
+
+-   **Ricercatore a Tempo Determinato lett. A (RTD-A)** \hfill<b>**Feb 2022 - ad oggi**</b>\
+    Università degli Studi dell'Aquila - Membro del gruppo di ricerca di Cartografia e Modellistica Ecologica - Membro del gruppo di ricerca di Biodiversità e Macroecologia (BIOME) Alma Mater Studiorum - Università di Bologna **SSD:** BIOS-01/C (ex BIO/03). \newline \*\*Ulteriori informazioni:\*\*</b> Ricercatore a tempo determinato lettera A) C. 3 ART. 24 L. 240/2010 - Programma Operativo Nazionale "Ricerca-Innovazione" 2014-2020 (PON) risorse FSE-REACT EU DM 10 agosto 2021, n. 1062; Azione IV.6 - Contratti di ricerca su tematiche Green - D.R. Rep. n. 1049/2021 Prot. N. 119177 del 19/11/2021 - CUP D.M. 1062/2021 E15F21004400001 - Project code: DM1062_GREEN_MESVA
+
+# Qualifiche
+
+-   **Abilitazione scientifica nazionale (ASN)** \newline Seconda fascia - Botanica - 05/BIOS-01 (ex 05/A1) \hfill<b>**dal 02 Dic 2023**</b>
+
+# Esperienze in ambito accademico
+
+-   **Assegno di ricerca** \hfill<b>**Set 2020 – Gen 2022**</b>\
+    Dipartimento di Medicina clinica, sanità pubblica, scienze della vita e dell'ambiente (MESVA), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo:**</b>  Spatio-temporal dynamics in plant communities using innovative ecological modeling techniques. \newline <b>**Tutor:**</b> Prof.ssa Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
+
+-   **Borsa di Studio** \hfill<b>**Giu 2020 – Ago 2020**</b>\
+    Dipartimento di Medicina clinica, sanità pubblica, scienze della vita e dell'ambiente (MESVA), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo:**</b> Monitoring and prediction of habitat conservation status using ecological modelling. \newline <b>**Tutor:**</b> Prof.ssa Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
+
+# Coordinatore di progetti nazionali e internazionali
+
+-   **Responsabile di Unità** and Co-PI (Co-Principal Investigator) **Prin 2022 PNRR** \hfill<b>**Nov 2023 – ad oggi**</b>\
+    **Titolo:** Plant Biodiversity and Ecosystem Change in protected Areas: land Use impacts and Scenario Evaluatio. **PI:** Prof. Francesco Maria Sabatini (Università di Bologna). **D.D. n.** 1370 - 01-09-2023. **Macro-settore:** Life Sciences. **Settore:** LS8 - Environmental Biology, Ecology and Evolution. **Codice:** P2022JM3RZ. **CUP:** E53D23013800001 **Budget:** 94.007,00 € - Fondi derivanti da bandi competitivi
+
+-   **Responsabile di Unità** and Co-PI (Co-Principal Investigator) **Prin 2022** \hfill<b>**Set 2023 – ad oggi**</b>\
+    **Titolo:** Identification of priority sites for the conservation of terrestrial animal and plant diversity to meet European and CBD 2030 targets. **PI:** Prof. Roberto Cazzolla Gatti (University of Bologna). **D.D. n.** 739 - 29-05-2023. **Macro-settore:** Life Sciences. **Settore:** LS8 - Environmental Biology, Ecology and Evolution. **Codice:** 2022C8E2F4. **CUP:** E53D23007530006 **Budget:** 39.000,00 € - Fondi derivanti da bandi competitivi
+
+-   **Principal investigator - Progetti universitari per la ricerca di base** \hfill<b>**Mag 2022 – Dic 2022**</b>\
+    **Titolo:** Understanding, predicting, and mitigating the impact of climate change consequences on high-altitude biodiversity in the central Apennines using a multitaxonic approach. **Finanziato da:** Università Degli Studi dell'Aquila **Budget:** 15.000,00 € - Bando competitivo interno all'ateneo
+
+# Collaboratore in progetti nazionali e internazionali
+
+-   **Coordinatore per il progetto MIREN Rock - del sito Appennino Centrale** \hfill<b>**Mag 2024 – ad oggi**</b>\
+    **Titolo:** Mountain Invasion Research Network (MIREN) rock survey - Sito Di Monitoraggio Appennino Centrale, Italia. **Coordinatore del progetto:** Koenraad Van Meerbeek
+
+-   **Partner associato** del progetto **Horizon Europe** \hfill<b>**Apr 2024 – ad oggi**</b>\
+    **Titolo:** Biodiversity Building Blocks for policy B3. **Coordinatore:** Agentschap Plantentuin Meise. **DOI** 10.3030/101059592. **Finanziato da:** Food, Bioeconomy Natural Resources, Agriculture and Environment. **ID:** 101059592.
+
+-   **Membro del team MIREN - sito La Palma** \hfill<b>**Mar 2024 – ad oggi**</b>\
+    **Titolo:** Mountain Invasion Research Network (MIREN) - sito di monitoraggio La Palma, Canary Islands, Spagna. **Coordinatrice del sito:** Prof.ssa Anke Jentsch
+
+-   **Membro del comitato scientifico del progetto TracEve** \hfill<b>**Mar 2023 – ad oggi**</b>\
+    **Titolo:** Tracing the evergreen broad-leaved species and their spread. **Coordinatore:** University of Innsbruck. **Link:** https://www.uibk.ac.at/en/projects/traceve/
+
+-   **Docente** \hfill<b>**Gen 2022 – Mag 2022**</b>\
+    **Titolo:** Network per lo studio della diversità micologica (ndm); **Titolo del contributo:** Ecosistemi e habitat terrestri **Coordinator:** Istituto superiore per la protezione e ricerca ambientale (ISPRA). **Link:** https://ndm.isprambiente.it/attivita/educazione-e-formazione-ambientale/percorso-formativo-di-micologia-ambientale/
+
+-   **Collaboratore per la raccolta dati** \hfill<b>**Set 2020 – ad oggi**</b>\
+    **Titolo:** SoilTemp (global database of soil and near surface microclimate time series). **Contributo:** Dati provenienti da diversi dataloggers siti in aree remote (comprendendo le alte quote dell'Appennino centrale e i ghiacciai). **Coordinatore:** Jonas Lembrechts. **Link:** https://www.soiltempproject.com/
+
+-   **Membro del gruppo - Piano Nazionale di Monitoraggio Biodiversità** \hfill<b>**Ago 2020 – Apr 2021**</b>\
+    **Titolo:** Sviluppo del piano nazionale per il monitoraggio della biodiversità. **Coordinatore:** Prof. Alessandro Chiarucci. **Finanziato da:** Istituto superiore per la protezione e ricerca ambientale (ISPRA).
+
+-   **Membro del team - GLORIA - sito ITCAM** \hfill<b>**Giu 2015 – ad oggi**</b>\
+    **Titolo:** Global observation research initiative in alpine environments (GLORIA) - Sito Di Monitoraggio Appennino Centrale ITCAM. **Coordinatrice del sito:** Prof.ss Angela Stanisci
+
+# Esperienze nelle scuole di dottorato
+
+-   **Ph.D. Co-supervisor** \hfill<b>**Mar 2024 – ad oggi**</b>\
+    **Dottorando:** Giacomo Cangelmi presso l'Università Degli Studi dell'Aquila **Titolo:** Biodiversity and Ecosystems Cheange in Protected Areas. **SSD:** BIOS-01/C (ex BIO/03).
+
+-   **Ph.D. Co-supervisor** \hfill<b>**Nov 2023 – ad oggi**</b>\
+    **Dottoranda:** Rocio Beatriz Cortes Lobos presso l'Alma Mater Studiorum - Università di Bologna **Titolo:** Deep learning for modelling current and future biodiversity scenarios. **SSD:** BIOS-01/C (ex BIO/03).
+
+-   **Ph.D. Co-supervisor** \hfill<b>**Nov 2022 – ad oggi**</b>\
+    **Dottorando:** Lorenzo Ricci presso l'Università Degli Studi dell'Aquila **Titolo:** The role of Protected Areas in conserving Plant Biodiversity across Europe. **SSD:** BIOS-01/C (ex BIO/03).
+
+-   **Docente** per i dottorandi della scuola di dottorato in Scienze della Salute e dell'Ambiente; Dipartimento di Medicina clinica, sanità pubblica, scienze della vita e dell'ambiente (MESVA), Università Degli Studi dell'Aquila, L’Aquila, Italia. **AA:** 2021/2022 **Corso:** Data management and biostatistics (16h); **AA:** 2022/2023 **Corso:** Data management, visualization and reporting using R (14h); **AA:** 2023/2024 **Corso:** Management of Biological and Environmental Data with R (10h).
+
+# Responabilità istituzionali
+
+-   **Membro della commissione comunicazione e social media** del Dipartimento di Medicina clinica, sanità pubblica, scienze della vita e dell'ambiente (MESVA), Università Degli Studi dell'Aquila, L’Aquila, Italy.
+
+# Attività come docente
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+did_ita_cv <- readRDS("input/did_ita.RDS")
+
+```
+
+`r did_ita_cv`
+
+-   ***Tutoraggio***
+-   Tutor per le lezioni pratiche di: **Statistical analysis and modelling - Module 2** (10h) Master in Scienze e Gestione della Natura. **Docente:** Prof. Piero Zannini. <b>**Anno Accademico:**</b> 2021-2022. <b>**Semestre:**</b> I.
+
+-   Tutor per le attività di laboratorio e attività di campo per il corso di: **Ecologia vegetale** (6h) Laurea triennale in Scienze e Tecnologie per L'Ambiente. **Docente:** Prof.ssa Anna Rita Frattaroli. <b>**Anni accademici:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semestre:**</b> II.
+
+-   Tutor per le attività di laboratorio e attività di campo per il corso di: **Botanica ambientale** (6h) Laurea magistrale in Biologia Ambientale e Gestione degli Ecosistemi. **Docente:** Prof.ssa Anna Rita Frattaroli. <b>**Anni accademici:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semestre:**</b> II.
+
+-   <b>***Attività didattica negli ultimi 3 Anni Accademici***</b> \newline - \hspace{1 mm} AA 2023/24 **100h** Laurea Triennale e Magistrale + **10h** Scuola di dottorato \newline - \hspace{1 mm} AA 2022/23 **90h** Laurea Triennale e Magistrale + **14h** Scuola di dottorato \newline  - \hspace{1 mm} AA 2021/22 **32h** Laurea Triennale e Magistrale + **16h** Scuola di dottorato
+
+# Background accademico
+
+-   **Dottorato di Ricerca in Scienze della Salute e dell'Ambiente** \hfill <b>**Nov 2016 - Ott 2019**</b>\
+    **SSD:** BIOS-01/C (ex BIO/03) **Titolo tesi:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Eccellente cum laude** \newline Università Degli Studi dell'Aquila, L'Aquila, Italia. \newline - **Supervisor:** Prof.ssa Anna Rita Frattaroli; \newline - **Co-Supervisor:** Prof. Jean-Paul Theurillat
+
+-   **Laure a doppio titolo in Biologia Ambientale** \hfill <b>**Set 2014 - Lug 2016**</b>\
+    Magistrale in Biologia Ambientale (LM6), Università Degli Studi dell'Aquila, L’Aquila, Italia; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Titolo della tesi:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** \newline - **Relatrice:** Prof.ssa Anna Rita Frattaroli; \newline - **Co-Relatrice:** Prof.ssa Angela Stanisci
+
+-   **Laurea Triennale in Scienze e Tecnologie per l'Ambiente** \hfill <b>**Set 2011 - Lug 2014**</b>\
+    Triennale in Scienze e Tecnologie per l'Ambiente (L75), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo tesi:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** \newline - **Relatrice:** Prof.ssa Anna Rita Frattaroli; \newline - **Co-Relatore:** Dott. Valter Di Cecco
+
+# Esperienze formative
+
+-   **Periodo all'estero dottorato** \hfill <b>**Nov 2017 - Dic 2017**</b>\
+    **Obiettivo:** Investigare i patter di ricchezza e composizione di specie, utilizzando i dati provenienti da uno schema di campionamento nested lungo due transetti altitudinali in Italia. \newline Spatial Ecology Lab. ECOSPAT, Dipertimento di Ecologia ed Evoluzione, Università di Losanna, Svizzera \newline - **Tutor:** Prof. Antoine Guisan
+
+-   **Alpine Plant Ecology Summer School** \hfill <b>**Lug 2018**</b>\
+    **Organizzata da:** Università di Basilea e la stazione di ricerca alpina Furka (ALPFOR). \newline Furka Pass, 2440 m a.s.l., Alpi centrali, Svizzera **Docenti** Prof. Christian Körner, Prof. Jürg Stöcklin, Prof. Jonathan Levine, Dr. Erika Hiltbrunner
+
+-   **Stage persso il "Centre alpien de Phytogéographie"** \hfill <b>**Lug 2018**</b>  **Obiettivi:** Campionamenti della vegetazione Alpina. \newline Giardino Botanico Alpino "Flore-Alpe", Champex-Lac, Svizzera - **Tutor:** Prof. Jean Paul Theurillat
+
+-   **Tirocinio** \hfill <b>**Apr 2015 - Set 2015**</b>\
+    Banca del Germoplasma e Giardino Botanico “Michele Tenore”. **Obiettivi:** Attività di laboratorio e raccolta semi per favorire la conservazione ex-situ, nonchè la reintroduzione di specie vegetali rare e/o minacciate. \newline - **Tutor:** Dott. Luciano Di Martino
+
+# Pubblicazioni
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+pubbl_scp <- readRDS("input/publication.RDS")
+
+```
+
+`r pubbl_scp`
+
+# Indicatori Bibliometrici
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+bblio_ind <- readRDS("input/bblio_ind.RDS")
+
+```
+
+-   `r bblio_ind`
+
+# Conferenze
+
+-   ***Comunicazioni orali, invited speaker o membro del comitato scientifico/organizzatore***
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+conf_m <- readRDS("input/conference.RDS")
+
+```
+
+`r conf_m`
+
+-   ***Poster***
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+poster <- readRDS("input/poster.RDS")
+
+```
+
+`r poster`
+
+\vspace{5 mm}
+
+-   ***Summary***
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+sum_conf <- readRDS("input/sum_conf.RDS")
+
+```
+
+`r sum_conf`
+
+# Premi e riconoscimenti
+
+-   **Top Downloaded Article:** Diversity of European habitat types is correlated with geography more than climate and human pressure **Rivista:** Ecology and Evolution **Ruolo:** First author equally contributing
+
+# Attività editoriale e di revisione
+
+-   **Managing Guest Editor** \hfill <b>**Mag 2022 - Lug 2024**</b>\
+    **Special issue:** 'Perspectives and applications of free and open source software in ecology.' \newline <b>**Rivista:**</b> Ecological Informatics
+
+-   **Review Editor in Biogeography and Macroecology** \hfill <b>**Apr 2024 - ad oggi**</b>\ 
+\newline <b>**Rivista:**</b> Frontiers in Ecology and Evolution
+
+-   **Revisore per:** PloS One; Journal of Biogeography; Journal of Vegetation Science; Scientific Reports, Ecological Informatics, Plant Ecology, Plant Biosystem, Community ecology, Communications earth & environment.
+
+# Lingue
+
+-   **Italiano** Native Speaker \newline <b>**Inglese**</b> Advanced (C1) \newline <b>**Francese**</b> Upper intermediate (B2) \newline <b>**Spagnolo**</b> Elementary (A2)
+
+# Membro di società scientifiche
+
+-   Società Botanica Italiana (SBI) - dal 2016 \newline Società Italiana di Scienze della Vegetazione (SISV) - dal 2017 \newline International Association for Vegetation Science (IAVS) - dal 2021 \newline International Biogeography Society (IBS) - dal 2023 \newline Membro fondatore della Society for Conservation Biology Italian Chapter (SCB Italy) - dal 2022
+
+# Esperienze come libero professionista
+
+**Collaborazioni professionali** Effettuare rilievi di vegetazione all'interno del Parco Regionale Sirente Velino **Obiettivo:** Verificare la corrispondenza della preliminare mappa degli Habitat Natura 2000, suggerendo opportune modifiche tramite dati raccolti in maniera capillare nel territorio del Parco. \hfill <b>**Nov 2022 - Dic 2022**</b> 
+
+**Collaborazioni professionali** Elaborazione di un report tecnico con l'obiettivo di definire i possibili effetti della messa in opera della “Bike to coast” sugli habitat e le specie presenti all'interno della Riserva Naturale Regionale "Ripari di Giobbe". “Interventi per il completamento della ‘Bike to coast’ – CUP 71B18000100002. \hfill <b>**Mag 2023**</b> 
+
+------------------------------------------------------------------------
+
+\vspace{10 mm}
+
+## ~Il presente CV è stato realizzato utilizzando solo  software opensource;~ \newline ~la lista delle pubblicazioni e gli indicatori bibliometrici sono stati scaricati automaticamente da Scopus.~
+
+------------------------------------------------------------------------
+
+\vspace{15 mm}
+
+```{r}
+#| echo: FALSE
+#| fig-align: center
+# layout-ncol: 2
+# layout: "[-1, 1]"
+
+dovqun <- paste("- <b>**L'Aquila**</b>", "\\newline", 
+                paste("<b>**", format(Sys.time(), '%d/%m/%Y'), "**</b>", sep = ""))
+```
+
+`r dovqun` \hspace{103 mm} <b>**Firma**</b>
+
+```{r}
+#| echo: FALSE
+#| fig-align: right
+# layout-ncol: 2
+# layout: "[-1, 1]"
+
+knitr::include_graphics("input/firmaMichele_nb.png", dpi = 400) 
+
+```
