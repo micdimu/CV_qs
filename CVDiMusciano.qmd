@@ -8,7 +8,7 @@ email: michele.dimusciano@univaq.it
 github: micdimu
 orcid: 0000-0002-3130-7270
 fontawesome: yes
-date: "`r format(Sys.time(), '%B %Y')`"
+date: "`r format(Sys.time(), '%d %b %Y')`"
 fontsize: 11pt
 format:
   quarto-cv-pdf: default
@@ -144,28 +144,28 @@ did_eng_cv <- readRDS("input/did_eng.RDS")
 # Accademic background
 
 -   **Ph.D. in Life and Environmental Science** \hfill <b>**Nov 2016 - Oct 2019**</b>\
-    **SSD:** BIOS-01/C (ex BIO/03) **Dissertation:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Excellent cum laude** \newline University of L’Aquila, L'Aquila, Italy. \newline - **Advisor:** Prof. Anna Rita Frattaroli; \newline - **Co-Advisor:** Prof. Jean-Paul Theurillat
+    **SSD:** BIOS-01/C (ex BIO/03) **Dissertation:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Excellent cum laude** \newline University of L’Aquila, L'Aquila, Italy. \newline <b>**Advisor:**</b> Prof. Anna Rita Frattaroli; \newline <b>**Co-Advisor:**</b> Prof. Jean-Paul Theurillat
 
 -   **Dual Master's Degree in Environmental Biology** \hfill <b>**Sep 2014 - Jul 2016**</b>\
-    Master in Environmental Biology (LM6), University of L’Aquila, L’Aquila, Italy; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Thesis title:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** \newline - **Advisor:** Prof. Anna Rita Frattaroli; \newline - **Co-Advisor:** Prof. Angela Stanisci
+    Master in Environmental Biology (LM6), University of L’Aquila, L’Aquila, Italy; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Thesis title:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** \newline <b>**Advisor:**</b> Prof. Anna Rita Frattaroli; \newline <b>**Co-Advisor:**</b> Prof. Angela Stanisci
 
 -   **Bachelor's Degree in Environmental Science and technology** \hfill <b>**Sep 2011 - Jul 2014**</b>\
-    Bachelor in Environmental Science and technology (L75), University of L’Aquila, L’Aquila, Italy. \newline <b>**Thesis title:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** \newline - **Advisor:** Prof. Anna Rita Frattaroli; \newline - **Co-Advisor:** Dott. Valter Di Cecco
+    Bachelor in Environmental Science and technology (L75), University of L’Aquila, L’Aquila, Italy. \newline <b>**Thesis title:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** \newline <b>**Advisor:**</b> Prof. Anna Rita Frattaroli; \newline <b>**Co-Advisor:**</b> Dott. Valter Di Cecco
 
 # Training experience
 
 -   **Visiting PhD Student** \hfill <b>**Nov 2017 - Dec 2017**</b>\
-    **Aims:** Disentangle the patterns of species richness and composition from a set of nested vegetation plots along two elevation transects in Italy. \newline Spatial Ecology Lab. ECOSPAT, Department of Ecology and Evolution, University of Lausanne, Switzerland \newline - **Tutor:** Prof. Antoine Guisan
+    **Aims:** Disentangle the patterns of species richness and composition from a set of nested vegetation plots along two elevation transects in Italy. \newline Spatial Ecology Lab. ECOSPAT, Department of Ecology and Evolution, University of Lausanne, Switzerland \newline <b>**Tutor:**</b> Prof. Antoine Guisan
 
 -   **Alpine Plant Ecology Summer School** \hfill <b>**Jul 2018**</b>\
-    **Organized by:** University of Basel and the Alpine Research Station Furka (ALPFOR). \newline Furka Pass, 2440 m a.s.l., Swiss central Alps, Switzerland. **Lecturer** Prof. Christian Körner, Prof. Jürg Stöcklin, Prof. Jonathan Levine, Dr. Erika Hiltbrunner
+**Organized by:** University of Basel and the Alpine Research Station Furka (ALPFOR). \newline Furka Pass, 2440 m a.s.l., Swiss central Alps, Switzerland.  \newline <b>**Lecturer**</b> Prof. Christian Körner, Prof. Jürg Stöcklin, Prof. Jonathan Levine, Dr. Erika Hiltbrunner
     
--   **Stage at the "Centre alpien de Phytogéographie"** \hfill <b>**Jul 2018**</b>\ 
-**Aims:** Sampling alpine vegetation. \newline Alpine Garden "Flore-Alpe", Champex-Lac, Switzerland. - **Tutor:** Prof. Jean Paul Theurillat
+-   **Stage at the "Centre alpien de Phytogéographie"** \hfill <b>**Jul 2018**</b>\
+**Aims:** Sampling alpine vegetation. Alpine Garden "Flore-Alpe", Champex-Lac, Switzerland.  \newline <b>**Tutor:**</b> Prof. Jean Paul Theurillat
 
 
 -   **Traineeship at Maiella National Park** \hfill <b>**Apr 2015 - Sep 2015**</b>\
-    Seeds bank and botanical garden “Michele Tenore”. **Aims:** Laboratory activities focused on gemination ecology, ex-situ conservation, restocking and reintroduction of threatened species, seeds collection. \newline - **Tutor:** Dott. Luciano Di Martino
+     **Aims:** Laboratory activities focused on germination ecology, ex-situ conservation, restocking and reintroduction of threatened species, seeds collection. Seeds bank and botanical garden “Michele Tenore”. \newline <b>**Tutor:**</b> Dott. Luciano Di Martino
 
 # Publications
 

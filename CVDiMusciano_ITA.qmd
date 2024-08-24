@@ -8,7 +8,7 @@ email: michele.dimusciano@univaq.it
 github: micdimu
 orcid: 0000-0002-3130-7270
 fontawesome: yes
-date: "`r format(Sys.time(), '%B %Y')`"
+date: "`r format(Sys.time(), '%d %b %Y')`"
 fontsize: 11pt
 format:
   quarto-cv-pdf: default
@@ -48,7 +48,7 @@ Sono un biologo ambientale di formazione e attualmente ricercatore a tempo deter
 # Attuale posizione lavorativa
 
 -   **Ricercatore a Tempo Determinato lett. A (RTD-A)** \hfill<b>**Feb 2022 - ad oggi**</b>\
-    Università degli Studi dell'Aquila - Membro del gruppo di ricerca di Cartografia e Modellistica Ecologica - Membro del gruppo di ricerca di Biodiversità e Macroecologia (BIOME) Alma Mater Studiorum - Università di Bologna **SSD:** BIOS-01/C (ex BIO/03). \newline \*\*Ulteriori informazioni:\*\*</b> Ricercatore a tempo determinato lettera A) C. 3 ART. 24 L. 240/2010 - Programma Operativo Nazionale "Ricerca-Innovazione" 2014-2020 (PON) risorse FSE-REACT EU DM 10 agosto 2021, n. 1062; Azione IV.6 - Contratti di ricerca su tematiche Green - D.R. Rep. n. 1049/2021 Prot. N. 119177 del 19/11/2021 - CUP D.M. 1062/2021 E15F21004400001 - Project code: DM1062_GREEN_MESVA
+    Università degli Studi dell'Aquila - Membro del gruppo di ricerca di Cartografia e Modellistica Ecologica - Membro del gruppo di ricerca di Biodiversità e Macroecologia (BIOME) Alma Mater Studiorum - Università di Bologna **SSD:** BIOS-01/C (ex BIO/03). \newline <b>**Ulteriori informazioni:**</b> Ricercatore a tempo determinato lettera A) C. 3 ART. 24 L. 240/2010 - Programma Operativo Nazionale "Ricerca-Innovazione" 2014-2020 (PON) risorse FSE-REACT EU DM 10 agosto 2021, n. 1062; Azione IV.6 - Contratti di ricerca su tematiche Green - D.R. Rep. n. 1049/2021 Prot. N. 119177 del 19/11/2021 - CUP D.M. 1062/2021 E15F21004400001 - Project code: DM1062_GREEN_MESVA
 
 # Qualifiche
 
@@ -131,6 +131,7 @@ did_ita_cv <- readRDS("input/did_ita.RDS")
 `r did_ita_cv`
 
 -   ***Tutoraggio***
+
 -   Tutor per le lezioni pratiche di: **Statistical analysis and modelling - Module 2** (10h) Master in Scienze e Gestione della Natura. **Docente:** Prof. Piero Zannini. <b>**Anno Accademico:**</b> 2021-2022. <b>**Semestre:**</b> I.
 
 -   Tutor per le attività di laboratorio e attività di campo per il corso di: **Ecologia vegetale** (6h) Laurea triennale in Scienze e Tecnologie per L'Ambiente. **Docente:** Prof.ssa Anna Rita Frattaroli. <b>**Anni accademici:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semestre:**</b> II.
@@ -142,26 +143,27 @@ did_ita_cv <- readRDS("input/did_ita.RDS")
 # Background accademico
 
 -   **Dottorato di Ricerca in Scienze della Salute e dell'Ambiente** \hfill <b>**Nov 2016 - Ott 2019**</b>\
-    **SSD:** BIOS-01/C (ex BIO/03) **Titolo tesi:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Eccellente cum laude** \newline Università Degli Studi dell'Aquila, L'Aquila, Italia. \newline - **Supervisor:** Prof.ssa Anna Rita Frattaroli; \newline - **Co-Supervisor:** Prof. Jean-Paul Theurillat
+    **SSD:** BIOS-01/C (ex BIO/03) **Titolo tesi:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Eccellente cum laude** \newline Università Degli Studi dell'Aquila, L'Aquila, Italia. \newline <b>**Supervisor:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Supervisor:**</b> Prof. Jean-Paul Theurillat
 
--   **Laure a doppio titolo in Biologia Ambientale** \hfill <b>**Set 2014 - Lug 2016**</b>\
-    Magistrale in Biologia Ambientale (LM6), Università Degli Studi dell'Aquila, L’Aquila, Italia; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Titolo della tesi:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** \newline - **Relatrice:** Prof.ssa Anna Rita Frattaroli; \newline - **Co-Relatrice:** Prof.ssa Angela Stanisci
+-   **Laurea a doppio titolo in Biologia Ambientale** \hfill <b>**Set 2014 - Lug 2016**</b>\
+    Magistrale in Biologia Ambientale (LM6), Università Degli Studi dell'Aquila, L’Aquila, Italia; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Titolo della tesi:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Relatrice:**</b> Prof.ssa Angela Stanisci
 
 -   **Laurea Triennale in Scienze e Tecnologie per l'Ambiente** \hfill <b>**Set 2011 - Lug 2014**</b>\
-    Triennale in Scienze e Tecnologie per l'Ambiente (L75), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo tesi:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** \newline - **Relatrice:** Prof.ssa Anna Rita Frattaroli; \newline - **Co-Relatore:** Dott. Valter Di Cecco
+    Triennale in Scienze e Tecnologie per l'Ambiente (L75), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo tesi:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Relatore:**</b> Dott. Valter Di Cecco
 
 # Esperienze formative
 
 -   **Periodo all'estero dottorato** \hfill <b>**Nov 2017 - Dic 2017**</b>\
-    **Obiettivo:** Investigare i patter di ricchezza e composizione di specie, utilizzando i dati provenienti da uno schema di campionamento nested lungo due transetti altitudinali in Italia. \newline Spatial Ecology Lab. ECOSPAT, Dipertimento di Ecologia ed Evoluzione, Università di Losanna, Svizzera \newline - **Tutor:** Prof. Antoine Guisan
+    **Obiettivo:** Investigare i patter di ricchezza e composizione di specie, utilizzando i dati provenienti da uno schema di campionamento nested lungo due transetti altitudinali in Italia. \newline Spatial Ecology Lab. ECOSPAT, Dipertimento di Ecologia ed Evoluzione, Università di Losanna, Svizzera \newline <b>**Tutor:**</b> Prof. Antoine Guisan
 
 -   **Alpine Plant Ecology Summer School** \hfill <b>**Lug 2018**</b>\
-    **Organizzata da:** Università di Basilea e la stazione di ricerca alpina Furka (ALPFOR). \newline Furka Pass, 2440 m a.s.l., Alpi centrali, Svizzera **Docenti** Prof. Christian Körner, Prof. Jürg Stöcklin, Prof. Jonathan Levine, Dr. Erika Hiltbrunner
+    **Organizzata da:** Università di Basilea e la stazione di ricerca alpina Furka (ALPFOR). \newline Furka Pass, 2440 m a.s.l., Alpi centrali, Svizzera. \newline <b>**Docenti**</b> Prof. Christian Körner, Prof. Jürg Stöcklin, Prof. Jonathan Levine, Dr.ssa Erika Hiltbrunner
 
--   **Stage persso il "Centre alpien de Phytogéographie"** \hfill <b>**Lug 2018**</b>  **Obiettivi:** Campionamenti della vegetazione Alpina. \newline Giardino Botanico Alpino "Flore-Alpe", Champex-Lac, Svizzera - **Tutor:** Prof. Jean Paul Theurillat
+-   **Stage persso il "Centre alpien de Phytogéographie"** \hfill <b>**Lug 2018**</b>\
+**Obiettivi:** Campionamenti della vegetazione Alpina. Giardino Botanico Alpino "Flore-Alpe", Champex-Lac, Svizzera. \newline <b>**Tutor:**</b> Prof. Jean Paul Theurillat
 
 -   **Tirocinio** \hfill <b>**Apr 2015 - Set 2015**</b>\
-    Banca del Germoplasma e Giardino Botanico “Michele Tenore”. **Obiettivi:** Attività di laboratorio e raccolta semi per favorire la conservazione ex-situ, nonchè la reintroduzione di specie vegetali rare e/o minacciate. \newline - **Tutor:** Dott. Luciano Di Martino
+    **Obiettivi:** Attività di laboratorio e raccolta semi per favorire la conservazione ex-situ, nonchè la reintroduzione di specie vegetali rare e/o minacciate. Banca del Germoplasma e Giardino Botanico “Michele Tenore”. \newline <b>**Tutor:**</b> Dott. Luciano Di Martino
 
 # Pubblicazioni
 
@@ -231,7 +233,7 @@ poster <- readRDS("input/poster.RDS")
 #| message: false
 #| output: false
 
-sum_conf <- readRDS("input/sum_conf.RDS")
+sum_conf <- readRDS("input/sum_conf_ITA.RDS")
 
 ```
 
@@ -246,8 +248,7 @@ sum_conf <- readRDS("input/sum_conf.RDS")
 -   **Managing Guest Editor** \hfill <b>**Mag 2022 - Lug 2024**</b>\
     **Special issue:** 'Perspectives and applications of free and open source software in ecology.' \newline <b>**Rivista:**</b> Ecological Informatics
 
--   **Review Editor in Biogeography and Macroecology** \hfill <b>**Apr 2024 - ad oggi**</b>\ 
-\newline <b>**Rivista:**</b> Frontiers in Ecology and Evolution
+-   **Review Editor in Biogeography and Macroecology** \hfill <b>**Apr 2024 - ad oggi**</b>  \newline <b>**Rivista:**</b> Frontiers in Ecology and Evolution
 
 -   **Revisore per:** PloS One; Journal of Biogeography; Journal of Vegetation Science; Scientific Reports, Ecological Informatics, Plant Ecology, Plant Biosystem, Community ecology, Communications earth & environment.
 

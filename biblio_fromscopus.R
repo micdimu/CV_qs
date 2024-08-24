@@ -160,4 +160,22 @@ confsumm_lyout <- paste(paste("<b>**", sum_conf$sum_post, "**</b>", sep = ""), "
 
 saveRDS(confsumm_lyout, "input/sum_conf.RDS")
 
-  
+#### summary conferences ITA ####
+
+sum_conf_ITA <- sum_post |> 
+  as.data.frame() |>
+  filter(sum_post != "Chair") |> 
+  mutate(sum_post = case_when(
+    sum_post == "Speaker" ~ "Comunicazioni orali",
+    sum_post == "Member of the Scientific Committee" ~ "Membro del comitato scientifico", 
+    sum_post == "Member of the Organizing Committee" ~ "Membro del comitato organizzatore",
+    TRUE ~ sum_post
+  )) |> 
+  mutate(sum_post = factor(sum_post, levels = c("Comunicazioni orali", "Invited speaker", "Poster", "Membro del comitato scientifico", "Membro del comitato organizzatore"))) |>
+  count(sum_post)
+
+confsumm_lyout_ITA <- paste(paste("<b>**", sum_conf_ITA$sum_post, "**</b>", sep = ""), " = ", sum_conf_ITA$n) |> 
+  paste(collapse = " \\newline") |> 
+  (\(.)paste("- ", .))()
+
+saveRDS(confsumm_lyout_ITA, "input/sum_conf_ITA.RDS")
