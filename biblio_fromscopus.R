@@ -5,6 +5,7 @@ library(rcrossref)
 library(RefManageR)
 library(lubridate)
 library(quarto)
+library(scholar)
 
 if(!dir.exists("input")){
   dir.create("input")
@@ -53,20 +54,48 @@ authors <- map(citazioni, \(x){
   formatAuthor(x$author)
 }) 
 
+
 cinque <- map2_df(authors, citazioni, \(x, y){
   bind_cols(aut = x, year = y$year, title = y$title, journ = y$journal, 
             vol = y$volume, ISSN = y$ISSN, doi = y$DOI)
 }) |> 
   filter(!is.na(aut))
 
+## solve Flora Mediterranea ##
+
+flora_medit <- bind_cols(
+  aut = "Di Cecco V.; Frattaroli A.R.; **Di Musciano M.**; Di Santo M.; Di Martino L.", 
+  year = "2021", 
+  title = "Seed germination reports for Policy species in the central Apennines", 
+  journ = "Flora Mediterranea", 
+  vol = "31", 
+  ISSN = "2240-4538", 
+  doi = "10.7320/flmedit31.277")
+
+cinque <- bind_rows(cinque, flora_medit)
+####
+
 cinque$vol[is.na(cinque$vol)] <- ""
+
+## solve coauthors grouped ##
+cinque$aut[-grep("Di Musciano", cinque$aut)] <- gsub("Djukic I." , "Djukic I.; **TeaComposition Network (Di Musciano M.)**",
+                                                     cinque$aut[-grep("Di Musciano", cinque$aut)])
+
+#### order by year ###
+
+cinque <- cinque |> 
+  mutate(year = as.numeric(year)) |> 
+  arrange(desc(year))
+
 cinque$aut[1] <- paste("*", cinque$aut[1])
+
 
 alfredo <- paste0(paste(cinque$aut, 
                         paste("(", cinque$year, ")", sep = ""),
                         paste("**", cinque$title, "**", sep = ""), "-",
-                        paste("*", cinque$journ, "*", sep = ""), "-", cinque$vol,
-                        cinque$ISSN, cinque$doi), collapse = " \\newline \\newline ")
+                        paste("*", cinque$journ, "*", sep = ""), "-", paste0(cinque$vol,", "),
+                        cinque$ISSN, "- **doi:** ", cinque$doi), collapse = " \\newline \\newline ") |> 
+  (\(.) gsub(" , ", "", .))()
 
 saveRDS(alfredo, "input/publication.RDS")
 
