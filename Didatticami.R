@@ -33,8 +33,10 @@ did_ita_out <- did_ita |>
   (\(.)paste("- ", .))()
 
 saveRDS(did_ita_out, "input/did_ita.RDS")
-?format
-format(Sys.time(), '%d %b %Y')
+
+
+ 
+  gsub("\\newline \\newline",  "\\newline \\newline -", did_ita_out, fixed = T)
 #### old but gold 
 # 
 # -   Course lecturer: **Applied Botany** (3CFU - 30h) Master degree in Environmental Biology and Ecosystem Management. **SSD:** BIOS-01/C (ex BIO/03). <b>**Accademic Years:**</b> 2022-2023, 2023-2024, <b>**Semester:**</b> II.

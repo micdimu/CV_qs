@@ -1,17 +1,13 @@
 ---
-title: "Elenco Titoli"
+title: "Elenco titoli"
 author: "Michele Di Musciano, Ph.D."
-position: ""
-address: "Ricercatore a Tempo Determinato (RTD-a) - University of L'Aquila" 
-email: michele.dimusciano@univaq.it
 fontawesome: yes
-date: "`r format(Sys.time(), '%B %Y')`"
-fontsize: 11pt
-format:
-  quarto-cv-pdf: default
+date: today
+date-format: "DD MMMM YYYY"
+fontsize: 10pt
+format: pdf
 editor: visual
-bibliography: refs.bib
-bibliographystyle: apa
+lang: it
 ---
 
 ```{r}
@@ -31,81 +27,49 @@ library(RefManageR)
 ```
 
 
--   **Italian National Scientific Habilitation (ASN)** \newline 2nd Level - Botany - 05/BIOS-01 (ex 05/A1) \hfill<b>**Since 02 Dec 2023**</b>
+# 01 Abilitazione Scientifica Nazionale
 
--   **Ricercatore a Tempo Determinato (RTD-a) - PON** \hfill<b>**Oct 2022 - Today**</b>\
-    University of L'Aquila, L'Aquila - Member of the research Group in Laboratory of Cartography, Ecology and Modelling (LACEMOD) - Member of the research Group in Biodiversity and Macroecology (BIOME) Alma Mater Studiorum - University of Bologna **SSD:** BIOS-01/C (ex BIO/03).
+-   **Abilitazione scientifica nazionale (ASN)** \newline Seconda fascia - Botanica - 05/BIOS-01 (ex 05/A1) \hfill<b>**dal 02 Dic 2023**</b>
 
--   **Post-Doctoral fellowship** \hfill<b>**Sep 2020 – Jan 2022**</b>\
-    Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b>  Spatio-temporal dynamics in plant communities using innovative ecological modeling techniques. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
+# 02 Contratti di ricerca in ambito accademico
 
--   **Scholarship** \hfill<b>**Jun 2020 – Aug 2020**</b>\
-    Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b> Monitoring and prediction of habitat conservation status using ecological modelling. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
-    
--   **Ph.D. in Life and Environmental Science** \hfill <b>**Nov 2016 - Oct 2019**</b>\
-    **SSD:** BIOS-01/C (ex BIO/03) **Dissertation:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Excellent cum laude** \newline University of L’Aquila, L'Aquila, Italy. \newline - **Advisor:** Prof. Anna Rita Frattaroli; \newline - **Co-Advisor:** Prof. Jean-Paul Theurillat
+-   **Ricercatore a Tempo Determinato lett. A (RTD-A)** \hfill<b>**Feb 2022 - ad oggi**</b>\
+    Università degli Studi dell'Aquila - Membro del gruppo di ricerca di Cartografia e Modellistica Ecologica - Membro del gruppo di ricerca di Biodiversità e Macroecologia (BIOME) Alma Mater Studiorum - Università di Bologna **SSD:** BIOS-01/C (ex BIO/03). \newline <b>**Ulteriori informazioni:**</b> Ricercatore a tempo determinato lettera A) C. 3 ART. 24 L. 240/2010 - Programma Operativo Nazionale "Ricerca-Innovazione" 2014-2020 (PON) risorse FSE-REACT EU DM 10 agosto 2021, n. 1062; Azione IV.6 - Contratti di ricerca su tematiche Green - D.R. Rep. n. 1049/2021 Prot. N. 119177 del 19/11/2021 - CUP D.M. 1062/2021 E15F21004400001 - Project code: DM1062_GREEN_MESVA
 
--   **Dual Master Degree in Environmental Biology** \hfill <b>**Sep 2014 - Jul 2016**</b>\
-    Master in Environmental Biology, University of L’Aquila, L’Aquila, Italy; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Thesis title:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** \newline - **Advisor:** Prof. Anna Rita Frattaroli; \newline - **Co-Advisor:** Prof. Angela Stanisci
+-   **Assegno di ricerca** \hfill<b>**Set 2020 – Gen 2022**</b>\
+    Dipartimento di Medicina clinica, sanità pubblica, scienze della vita e dell'ambiente (MESVA), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo:**</b>  Spatio-temporal dynamics in plant communities using innovative ecological modeling techniques. \newline <b>**Tutor:**</b> Prof.ssa Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
 
--   **Bachelor's Degree in Environmental Science and technology** \hfill <b>**Sep 2011 - Jul 2014**</b>\
-    Bachelor in Environmental Science and technology (L75), University of L’Aquila, L’Aquila, Italy. \newline <b>**Thesis title:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** \newline - **Advisor:** Prof. Anna Rita Frattaroli; \newline - **Co-Advisor:** Dott. Valter Di Cecco
+-   **Borsa di Studio** \hfill<b>**Giu 2020 – Ago 2020**</b>\
+    Dipartimento di Medicina clinica, sanità pubblica, scienze della vita e dell'ambiente (MESVA), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo:**</b> Monitoring and prediction of habitat conservation status using ecological modelling. \newline <b>**Tutor:**</b> Prof.ssa Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
 
+# 03 Dottorato di Ricerca
 
-# Projects coordination
+-   **Dottorato di Ricerca in Scienze della Salute e dell'Ambiente** \hfill <b>**Nov 2016 - Ott 2019**</b>\
+    **SSD:** BIOS-01/C (ex BIO/03) **Titolo tesi:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Eccellente cum laude** \newline Università Degli Studi dell'Aquila, L'Aquila, Italia. \newline <b>**Supervisor:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Supervisor:**</b> Prof. Jean-Paul Theurillat
 
--   **Unit leader** and Co-PI (Co-Principal Investigator) **Prin 2022 PNRR** \hfill<b>**Nov 2023 – ongoing**</b>\
-    **Title:** Plant Biodiversity and Ecosystem Change in protected Areas: land Use impacts and Scenario Evaluatio. **PI:** Prof. Francesco Maria Sabatini (University of Bologna). **D.D. n.** 1370 - 01-09-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** P2022JM3RZ. **CUP:** E53D23013800001 **Budget:** 94.007,00 €
+# 04 Laurea Triennale e Magistrale
 
--   **Unit leader** and Co-PI (Co-Principal Investigator) **Prin 2022** \hfill<b>**Sep 2023 – ongoing**</b>\
-    **Title:** Identification of priority sites for the conservation of terrestrial animal and plant diversity to meet European and CBD 2030 targets. **PI:** Prof. Roberto Cazzolla Gatti (University of Bologna). **D.D. n.** 739 - 29-05-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** 2022C8E2F4. **CUP:** E53D23007530006 **Budget:** 39.000,00 €
+-   **Laurea a doppio titolo in Biologia Ambientale** \hfill <b>**Set 2014 - Lug 2016**</b>\
+    Magistrale in Biologia Ambientale (LM6), Università Degli Studi dell'Aquila, L’Aquila, Italia; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Titolo della tesi:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Relatrice:**</b> Prof.ssa Angela Stanisci
 
--   **Principal investigator - University project for basic research** \hfill<b>**May 2022 – Dec 2022**</b>\
-    **Title:** Understanding, predicting, and mitigating the impact of climate change consequences on high-altitude biodiversity in the central Apennines using a multitaxonic approach. **Funded by:** University of L'Aquila **Budget:** 15.000,00 €
+-   **Laurea Triennale in Scienze e Tecnologie per l'Ambiente** \hfill <b>**Set 2011 - Lug 2014**</b>\
+    Triennale in Scienze e Tecnologie per l'Ambiente (L75), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo tesi:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Relatore:**</b> Dott. Valter Di Cecco
 
-# Ph.D tutoring and lecturing
+# 05 Coordinatore di progetti nazionali
 
--   **Ph.D. Co-supervisor** \hfill<b>**Mar 2024 – ongoing**</b>\
-    **Ph.D candidate:** Giacomo Cangelmi at the University of L'Aquila **Title:** Biodiversity and Ecosystems Cheange in protected Areas. **SSD:** BIOS-01/C (ex BIO/03).
+-   **Responsabile di Unità** and Co-PI (Co-Principal Investigator) **Prin 2022 PNRR** \hfill<b>**Nov 2023 – ad oggi**</b>\
+    **Titolo:** Plant Biodiversity and Ecosystem Change in protected Areas: land Use impacts and Scenario Evaluatio. **PI:** Prof. Francesco Maria Sabatini (Università di Bologna). **D.D. n.** 1370 - 01-09-2023. **Macro-settore:** Life Sciences. **Settore:** LS8 - Environmental Biology, Ecology and Evolution. **Codice:** P2022JM3RZ. **CUP:** E53D23013800001 **Budget:** 94.007,00 € - Fondi derivanti da bandi competitivi
 
--   **Ph.D. Co-supervisor** \hfill<b>**Nov 2023 – ongoing**</b>\
-    **Ph.D candidate:** Rocio Beatriz Cortes Lobos at Alma Mater Studiorum - University of Bologna **Title:** Deep learning for modelling current and future biodiversity scenarios. **SSD:** BIOS-01/C (ex BIO/03).
+-   **Responsabile di Unità** and Co-PI (Co-Principal Investigator) **Prin 2022** \hfill<b>**Set 2023 – ad oggi**</b>\
+    **Titolo:** Identification of priority sites for the conservation of terrestrial animal and plant diversity to meet European and CBD 2030 targets. **PI:** Prof. Roberto Cazzolla Gatti (University of Bologna). **D.D. n.** 739 - 29-05-2023. **Macro-settore:** Life Sciences. **Settore:** LS8 - Environmental Biology, Ecology and Evolution. **Codice:** 2022C8E2F4. **CUP:** E53D23007530006 **Budget:** 39.000,00 € - Fondi derivanti da bandi competitivi
 
--   **Ph.D. Co-supervisor** \hfill<b>**Nov 2022 – ongoing**</b>\
-    **Ph.D candidate:** Lorenzo Ricci at the University of L'Aquila **Title:** The role of Protected areas in conserving Plant Biodiversity across Europe. **SSD:** BIOS-01/C (ex BIO/03).
-
--   **Lecturer** for the Ph.D. candidates of the Life and Environmental Science school; Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. **AY:** 2021/2022 **Course title:** Data management and biostatistics (16h); **AY:** 2022/2023 **Course title:** Data management, visualization and reporting using R (14h); **AY:** 2023/2024 **Course title:** Management of Biological and Environmental Data with R (10h).
+-   **Principal investigator - Progetti universitari per la ricerca di base** \hfill<b>**Mag 2022 – Dic 2022**</b>\
+    **Titolo:** Understanding, predicting, and mitigating the impact of climate change consequences on high-altitude biodiversity in the central Apennines using a multitaxonic approach. **Finanziato da:** Università Degli Studi dell'Aquila **Budget:** 15.000,00 € - Bando competitivo interno all'ateneo
 
 
-# Publications
+# Conferenze
 
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-#| output: false
-
-pubbl_scp <- readRDS("input/publication.RDS")
-
-```
-
-`r pubbl_scp`
-
-# Bibliometrics indicators
-
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-#| output: false
-
-bblio_ind <- readRDS("input/bblio_ind.RDS")
-
-```
-
-`r bblio_ind`
-
-# Conferences
+-   ***Comunicazioni orali, invited speaker o membro del comitato scientifico/organizzatore***
 
 ```{r}
 #| echo: false
@@ -119,26 +83,52 @@ conf_m <- readRDS("input/conference.RDS")
 
 `r conf_m`
 
-# Awards
+-   ***Poster***
 
--   **Top Downloaded Article:** Diversity of European habitat types is correlated with geography more than climate and human pressure **Published in:** Ecology and Evolution **Role:** First author equally contributing
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+poster <- readRDS("input/poster.RDS")
+
+```
+
+`r poster`
+
+\vspace{5 mm}
+
+-   ***Summary***
+
+    
+# Premi e riconoscimenti
+
+-   **Top Downloaded Article:** Diversity of European habitat types is correlated with geography more than climate and human pressure **Rivista:** Ecology and Evolution **Ruolo:** First author equally contributing
+
+-   **Vincitore del Hackaton B3:** Team 8 - Virtual B3 - How reliability and uncertainty of biodiversity sampling affect SDM: build virtual species to cope with real problems! **Ruolo:** Membro del team vincente **Brussels, Belgium – 2 - 3 Apr 2024**  
+
+-   **Borsa di studio per la conferenza:** Annual Symposium of the International Association for Vegetation Science. **Role:** Comunicazione orale come primo autore. **Coffs Harbour, Australia – 3 - 8 Set 2023**
+
+-   **Borsa di studio per la conferenza:** Annual Conference of the Italian Botanical Society. **Ruolo:** Poster come primo autore. **Parma, Italia – 20 - 23 Set 2017**
 
 
 
 ------------------------------------------------------------------------
 
 \vspace{15 mm}
+
 ```{r}
 #| echo: FALSE
 #| fig-align: center
 # layout-ncol: 2
 # layout: "[-1, 1]"
 
-dovqun <- paste("- <b>**L'Aquila**</b>", "\\newline", 
+dovqun <- paste(" \\hspace{2 mm}", "<b>**L'Aquila**</b>", "\\newline",
                 paste("<b>**", format(Sys.time(), '%d/%m/%Y'), "**</b>", sep = ""))
 ```
 
-`r dovqun` \hspace{105 mm} <b>**Signature**</b>
+`r dovqun` \hspace{80 mm} <b>**Firma**</b>
 
 ```{r}
 #| echo: FALSE

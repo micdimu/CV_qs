@@ -1,0 +1,71 @@
+---
+title: "Eleco attività didattiche"
+author: "Michele Di Musciano, Ph.D."
+fontawesome: yes
+date: today
+date-format: "DD MMMM YYYY"
+fontsize: 10pt
+format: pdf
+editor: visual
+lang: it
+---
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| context: server
+library(dplyr)
+library(ggplot2)
+library(tidyverse)
+library(vitae)
+library(rscopus)
+library(tidyverse)
+library(bibtex)
+library(rcrossref)    
+library(RefManageR)
+```
+
+
+
+# Attività come docente
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+did_ita_cv <- readRDS("input/did_ita.RDS")  
+  
+did_ita_cv <- gsub("-  ",  "", did_ita_cv, fixed = T)
+
+```
+
+`r did_ita_cv`
+
+------------------------------------------------------------------------
+
+\vspace{15 mm}
+
+```{r}
+#| echo: FALSE
+#| fig-align: center
+# layout-ncol: 2
+# layout: "[-1, 1]"
+
+dovqun <- paste(" \\hspace{2 mm}", "<b>**L'Aquila**</b>", "\\newline",
+                paste("<b>**", format(Sys.time(), '%d/%m/%Y'), "**</b>", sep = ""))
+```
+
+`r dovqun` \hspace{80 mm} <b>**Firma**</b>
+
+```{r}
+#| echo: FALSE
+#| fig-align: right
+# layout-ncol: 2
+# layout: "[-1, 1]"
+
+knitr::include_graphics("input/firmaMichele_nb.png", dpi = 400) 
+
+```

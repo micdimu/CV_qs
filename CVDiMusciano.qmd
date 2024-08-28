@@ -241,6 +241,12 @@ sum_conf <- readRDS("input/sum_conf.RDS")
 
 -   **Top Downloaded Article:** Diversity of European habitat types is correlated with geography more than climate and human pressure **Published in:** Ecology and Evolution **Role:** First author equally contributing
 
+-   **B3 Hackaton winner:** Team 8 - Virtual B3 - How reliability and uncertainty of biodiversity sampling affect SDM: build virtual species to cope with real problems! **Role:** Member of the winner team. **Brussels, Belgium – 2 - 3 Apr 2024**  
+
+-   **Travel award:** Annual Symposium of the International Association for Vegetation Science. **Role:** Oral communication as first author. **Coffs Harbour, Australia – 3 - 8 Sep 2023**
+
+-   **Travel award:** Annual Conference of the Italian Botanical Society. **Role:** Poster presentation as first author. **Parma, Italy – 20 - 23 Sep 2017**
+
 # Editorial or reviwer activities
 
 -   **Managing Guest Editor** \hfill <b>**May 2022 - Jul 2024**</b>\
