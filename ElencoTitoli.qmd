@@ -1,6 +1,6 @@
 ---
 title: "Elenco titoli"
-author: "Michele Di Musciano, Ph.D."
+author: "Michele Di Musciano"
 fontawesome: yes
 date: today
 date-format: "DD MMMM YYYY"
@@ -27,11 +27,11 @@ library(RefManageR)
 ```
 
 
-# 01 Abilitazione Scientifica Nazionale
+## 01 Abilitazione Scientifica Nazionale
 
 -   **Abilitazione scientifica nazionale (ASN)** \newline Seconda fascia - Botanica - 05/BIOS-01 (ex 05/A1) \hfill<b>**dal 02 Dic 2023**</b>
 
-# 02 Contratti di ricerca in ambito accademico
+## 02 Contratti di ricerca in ambito accademico
 
 -   **Ricercatore a Tempo Determinato lett. A (RTD-A)** \hfill<b>**Feb 2022 - ad oggi**</b>\
     Università degli Studi dell'Aquila - Membro del gruppo di ricerca di Cartografia e Modellistica Ecologica - Membro del gruppo di ricerca di Biodiversità e Macroecologia (BIOME) Alma Mater Studiorum - Università di Bologna **SSD:** BIOS-01/C (ex BIO/03). \newline <b>**Ulteriori informazioni:**</b> Ricercatore a tempo determinato lettera A) C. 3 ART. 24 L. 240/2010 - Programma Operativo Nazionale "Ricerca-Innovazione" 2014-2020 (PON) risorse FSE-REACT EU DM 10 agosto 2021, n. 1062; Azione IV.6 - Contratti di ricerca su tematiche Green - D.R. Rep. n. 1049/2021 Prot. N. 119177 del 19/11/2021 - CUP D.M. 1062/2021 E15F21004400001 - Project code: DM1062_GREEN_MESVA
@@ -42,12 +42,12 @@ library(RefManageR)
 -   **Borsa di Studio** \hfill<b>**Giu 2020 – Ago 2020**</b>\
     Dipartimento di Medicina clinica, sanità pubblica, scienze della vita e dell'ambiente (MESVA), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo:**</b> Monitoring and prediction of habitat conservation status using ecological modelling. \newline <b>**Tutor:**</b> Prof.ssa Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
 
-# 03 Dottorato di Ricerca
+## 03 Dottorato di Ricerca
 
 -   **Dottorato di Ricerca in Scienze della Salute e dell'Ambiente** \hfill <b>**Nov 2016 - Ott 2019**</b>\
     **SSD:** BIOS-01/C (ex BIO/03) **Titolo tesi:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Eccellente cum laude** \newline Università Degli Studi dell'Aquila, L'Aquila, Italia. \newline <b>**Supervisor:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Supervisor:**</b> Prof. Jean-Paul Theurillat
 
-# 04 Laurea Triennale e Magistrale
+## 04 Laurea Triennale e Magistrale
 
 -   **Laurea a doppio titolo in Biologia Ambientale** \hfill <b>**Set 2014 - Lug 2016**</b>\
     Magistrale in Biologia Ambientale (LM6), Università Degli Studi dell'Aquila, L’Aquila, Italia; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Titolo della tesi:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Relatrice:**</b> Prof.ssa Angela Stanisci
@@ -55,9 +55,10 @@ library(RefManageR)
 -   **Laurea Triennale in Scienze e Tecnologie per l'Ambiente** \hfill <b>**Set 2011 - Lug 2014**</b>\
     Triennale in Scienze e Tecnologie per l'Ambiente (L75), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo tesi:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Relatore:**</b> Dott. Valter Di Cecco
 
-# 05 Coordinatore di progetti nazionali
+## 05 Coordinatore di progetti nazionali
 
--   **Responsabile di Unità** and Co-PI (Co-Principal Investigator) **Prin 2022 PNRR** \hfill<b>**Nov 2023 – ad oggi**</b>\
+-   **Responsabile di Unità** and Co-PI (Co-Principal Investigator) \newline
+**Prin 2022 PNRR** \hfill<b>**Nov 2023 – ad oggi**</b>\
     **Titolo:** Plant Biodiversity and Ecosystem Change in protected Areas: land Use impacts and Scenario Evaluatio. **PI:** Prof. Francesco Maria Sabatini (Università di Bologna). **D.D. n.** 1370 - 01-09-2023. **Macro-settore:** Life Sciences. **Settore:** LS8 - Environmental Biology, Ecology and Evolution. **Codice:** P2022JM3RZ. **CUP:** E53D23013800001 **Budget:** 94.007,00 € - Fondi derivanti da bandi competitivi
 
 -   **Responsabile di Unità** and Co-PI (Co-Principal Investigator) **Prin 2022** \hfill<b>**Set 2023 – ad oggi**</b>\
@@ -67,9 +68,9 @@ library(RefManageR)
     **Titolo:** Understanding, predicting, and mitigating the impact of climate change consequences on high-altitude biodiversity in the central Apennines using a multitaxonic approach. **Finanziato da:** Università Degli Studi dell'Aquila **Budget:** 15.000,00 € - Bando competitivo interno all'ateneo
 
 
-# Conferenze
+## 06 Conferenze
 
--   ***Comunicazioni orali, invited speaker o membro del comitato scientifico/organizzatore***
+### *Comunicazioni orali, invited speaker o membro del comitato scientifico/organizzatore*
 
 ```{r}
 #| echo: false
@@ -79,30 +80,14 @@ library(RefManageR)
 
 conf_m <- readRDS("input/conference.RDS")
 
+conf_m <- gsub("\\newline \\newline",  "\n -  ", conf_m, fixed = T)
+
 ```
 
 `r conf_m`
 
--   ***Poster***
-
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-#| output: false
-
-poster <- readRDS("input/poster.RDS")
-
-```
-
-`r poster`
-
-\vspace{5 mm}
-
--   ***Summary***
-
     
-# Premi e riconoscimenti
+## 07 Premi e riconoscimenti
 
 -   **Top Downloaded Article:** Diversity of European habitat types is correlated with geography more than climate and human pressure **Rivista:** Ecology and Evolution **Ruolo:** First author equally contributing
 
@@ -121,8 +106,6 @@ poster <- readRDS("input/poster.RDS")
 ```{r}
 #| echo: FALSE
 #| fig-align: center
-# layout-ncol: 2
-# layout: "[-1, 1]"
 
 dovqun <- paste(" \\hspace{2 mm}", "<b>**L'Aquila**</b>", "\\newline",
                 paste("<b>**", format(Sys.time(), '%d/%m/%Y'), "**</b>", sep = ""))
@@ -133,8 +116,6 @@ dovqun <- paste(" \\hspace{2 mm}", "<b>**L'Aquila**</b>", "\\newline",
 ```{r}
 #| echo: FALSE
 #| fig-align: right
-# layout-ncol: 2
-# layout: "[-1, 1]"
 
 knitr::include_graphics("input/firmaMichele_nb.png", dpi = 400) 
 

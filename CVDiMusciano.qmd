@@ -139,7 +139,14 @@ did_eng_cv <- readRDS("input/did_eng.RDS")
 
 -   Tutoring for laboratory and fieldwork activities, course: **Applied Botany** (6h) Master degree in Environmental Biology and Ecosystem Management. **Course lecturer:** Prof. Anna Rita Frattaroli. <b>**Accademic Years:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semester:**</b> II.
 
+-  ***Supervisor***
+-   I have supervised or co-supervised more than **10 master's theses** and more than **20 bachelor's theses** both at the University of L'Aquila and at the University of Bologna
+
+
 -   <b>**Summary of the teaching activities in the last 3 AYs**</b> \newline - \hspace{1 mm} AY 2023/24 **100h** bachelor and master degrees + **10h** Ph.D. school \newline - \hspace{1 mm} AY 2022/23 **90h** bachelor and master degrees + **14h** Ph.D. school \newline  - \hspace{1 mm} AY 2021/22 **32h** bachelor and master degrees + **16h** Ph.D. school
+
+
+
 
 # Accademic background
 

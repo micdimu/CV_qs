@@ -1,6 +1,6 @@
 ---
 title: "Eleco attività didattiche"
-author: "Michele Di Musciano, Ph.D."
+author: "Michele Di Musciano"
 fontawesome: yes
 date: today
 date-format: "DD MMMM YYYY"
@@ -28,7 +28,7 @@ library(RefManageR)
 
 
 
-# Attività come docente
+## Attività come docente
 
 ```{r}
 #| echo: false
@@ -38,11 +38,35 @@ library(RefManageR)
 
 did_ita_cv <- readRDS("input/did_ita.RDS")  
   
-did_ita_cv <- gsub("-  ",  "", did_ita_cv, fixed = T)
+did_ita_cv <- gsub("\\newline \\newline",  "\n -  ", did_ita_cv, fixed = T)
 
 ```
 
 `r did_ita_cv`
+
+***Tutoraggio***
+
+-   Tutor per le lezioni pratiche di: **Statistical analysis and modelling - Module 2** (10h) Master in Scienze e Gestione della Natura. **Docente:** Prof. Piero Zannini. <b>**Anno Accademico:**</b> 2021-2022. <b>**Semestre:**</b> I.
+
+-   Tutor per le attività di laboratorio e attività di campo per il corso di: **Ecologia vegetale** (6h) Laurea triennale in Scienze e Tecnologie per L'Ambiente. **Docente:** Prof.ssa Anna Rita Frattaroli. <b>**Anni accademici:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semestre:**</b> II.
+
+-   Tutor per le attività di laboratorio e attività di campo per il corso di: **Botanica ambientale** (6h) Laurea magistrale in Biologia Ambientale e Gestione degli Ecosistemi. **Docente:** Prof.ssa Anna Rita Frattaroli. <b>**Anni accademici:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semestre:**</b> II.
+
+-   ***Relatore o co-relatore*** \newline
+Ho svolto il ruolo di Relatore o Co-relatore a più di **10 tesi magistrali** and più di **20 tesi triennali** sia all'Università dell'Aquila che presso L'Università di Bologna.
+
+# Esperienze nelle scuole di dottorato
+
+-   **Ph.D. Co-supervisor** \hfill<b>**Mar 2024 – ad oggi**</b>\
+    **Dottorando:** Giacomo Cangelmi presso l'Università Degli Studi dell'Aquila **Titolo:** Biodiversity and Ecosystems Cheange in Protected Areas. **SSD:** BIOS-01/C (ex BIO/03).
+
+-   **Ph.D. Co-supervisor** \hfill<b>**Nov 2023 – ad oggi**</b>\
+    **Dottoranda:** Rocio Beatriz Cortes Lobos presso l'Alma Mater Studiorum - Università di Bologna **Titolo:** Deep learning for modelling current and future biodiversity scenarios. **SSD:** BIOS-01/C (ex BIO/03).
+
+-   **Ph.D. Co-supervisor** \hfill<b>**Nov 2022 – ad oggi**</b>\
+    **Dottorando:** Lorenzo Ricci presso l'Università Degli Studi dell'Aquila **Titolo:** The role of Protected Areas in conserving Plant Biodiversity across Europe. **SSD:** BIOS-01/C (ex BIO/03).
+
+-   **Docente** per i dottorandi della scuola di dottorato in Scienze della Salute e dell'Ambiente; Dipartimento di Medicina clinica, sanità pubblica, scienze della vita e dell'ambiente (MESVA), Università Degli Studi dell'Aquila, L’Aquila, Italia. **AA:** 2021/2022 **Corso:** Data management and biostatistics (16h); **AA:** 2022/2023 **Corso:** Data management, visualization and reporting using R (14h); **AA:** 2023/2024 **Corso:** Management of Biological and Environmental Data with R (10h).
 
 ------------------------------------------------------------------------
 
@@ -51,8 +75,6 @@ did_ita_cv <- gsub("-  ",  "", did_ita_cv, fixed = T)
 ```{r}
 #| echo: FALSE
 #| fig-align: center
-# layout-ncol: 2
-# layout: "[-1, 1]"
 
 dovqun <- paste(" \\hspace{2 mm}", "<b>**L'Aquila**</b>", "\\newline",
                 paste("<b>**", format(Sys.time(), '%d/%m/%Y'), "**</b>", sep = ""))
@@ -63,8 +85,6 @@ dovqun <- paste(" \\hspace{2 mm}", "<b>**L'Aquila**</b>", "\\newline",
 ```{r}
 #| echo: FALSE
 #| fig-align: right
-# layout-ncol: 2
-# layout: "[-1, 1]"
 
 knitr::include_graphics("input/firmaMichele_nb.png", dpi = 400) 
 

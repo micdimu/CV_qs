@@ -138,7 +138,12 @@ did_ita_cv <- readRDS("input/did_ita.RDS")
 
 -   Tutor per le attività di laboratorio e attività di campo per il corso di: **Botanica ambientale** (6h) Laurea magistrale in Biologia Ambientale e Gestione degli Ecosistemi. **Docente:** Prof.ssa Anna Rita Frattaroli. <b>**Anni accademici:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semestre:**</b> II.
 
+-  ***Relatore o co-relatore***
+-   Ho svolto il ruolo di Relatore o Co-relatore a più di **10 tesi magistrali** and più di **20 tesi triennali** sia all'Università dell'Aquila che presso L'Università di Bologna.
+
+
 -   <b>***Attività didattica negli ultimi 3 Anni Accademici***</b> \newline - \hspace{1 mm} AA 2023/24 **100h** Laurea Triennale e Magistrale + **10h** Scuola di dottorato \newline - \hspace{1 mm} AA 2022/23 **90h** Laurea Triennale e Magistrale + **14h** Scuola di dottorato \newline  - \hspace{1 mm} AA 2021/22 **32h** Laurea Triennale e Magistrale + **16h** Scuola di dottorato
+
 
 # Background accademico
 
