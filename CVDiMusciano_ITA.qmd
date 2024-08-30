@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 author: "Michele Di Musciano, Ph.D."
 position: ""
-address: "Ricercatore a Tempo Determinato lett. A (RtdA) Università Degli Studi dell'Aquila" 
+address: "Ricercatore a Tempo Determinato lett. A (RTDA) Università Degli Studi dell'Aquila" 
 phone: + 39 3337432223
 email: michele.dimusciano@univaq.it
 github: micdimu
@@ -35,7 +35,7 @@ library(RefManageR)
 
 # Attività di ricerca
 
-Sono un biologo ambientale di formazione e attualmente ricercatore a tempo determinato presso l'Università degli Studi dell'Aquila. Il mio background scientifico è principalmente legato all'ecologia alpina, la modellistica ecologica, e i tratti funzionali delle specie vegetali. Attualmente mi sto occupando di identificare i principali fattori ambientali che governano la distribuzione e i processi delle comunità vegetali. Concentrando i miei sforzi principalmente in ecosistemi montani, i miei obiettivi principali sono quelli di quantificare il ruolo del clima, topografia e impatto dell'uomo sulla diversità vegetale dal punto di vista tassonomico, funzionale e filogenetico. Attualmente mi sto occupando anche di temi legati alla conservazione della biodiversità, cercando nello specifico, di quantificare l'efficacia delle aree protette nel preservare la biodiverità. Negli ultimi due anni, inoltre, sono stato coinvolto in diversi progetti riguardanti le Isole, alcuni dei quali focalizzati nello studio della dinamica vegetale nelle piccole isole.
+Sono un biologo ambientale di formazione e attualmente ricercatore a tempo determinato presso l'Università degli Studi dell'Aquila. Il mio background scientifico è principalmente legato all'ecologia alpina, la modellistica ecologica, e i tratti funzionali delle specie vegetali. Con un focus nell'identificare i principali fattori ambientali che governano la distribuzione e i processi delle comunità vegetali. Concentrando i miei sforzi principalmente in ecosistemi montani, i miei obiettivi principali sono quelli di quantificare il ruolo del clima, topografia e impatto dell'uomo sulla diversità vegetale dal punto di vista tassonomico, funzionale e filogenetico. Attualmente mi sto occupando anche di temi legati alla conservazione, cercando nello specifico di quantificare l'efficacia delle aree protette nel preservare la biodiverità. Negli ultimi due anni, inoltre, sono stato coinvolto in diversi progetti riguardanti lo studio della dinamica di vegetazione nelle isole del mediterraneo e non solo.
 
 # Principali topic di ricerca
 
@@ -87,9 +87,6 @@ Sono un biologo ambientale di formazione e attualmente ricercatore a tempo deter
 -   **Membro del comitato scientifico del progetto TracEve** \hfill<b>**Mar 2023 – ad oggi**</b>\
     **Titolo:** Tracing the evergreen broad-leaved species and their spread. **Coordinatore:** University of Innsbruck. **Link:** https://www.uibk.ac.at/en/projects/traceve/
 
--   **Docente** \hfill<b>**Gen 2022 – Mag 2022**</b>\
-    **Titolo:** Network per lo studio della diversità micologica (ndm); **Titolo del contributo:** Ecosistemi e habitat terrestri **Coordinator:** Istituto superiore per la protezione e ricerca ambientale (ISPRA). **Link:** https://ndm.isprambiente.it/attivita/educazione-e-formazione-ambientale/percorso-formativo-di-micologia-ambientale/
-
 -   **Collaboratore per la raccolta dati** \hfill<b>**Set 2020 – ad oggi**</b>\
     **Titolo:** SoilTemp (global database of soil and near surface microclimate time series). **Contributo:** Dati provenienti da diversi dataloggers siti in aree remote (comprendendo le alte quote dell'Appennino centrale e i ghiacciai). **Coordinatore:** Jonas Lembrechts. **Link:** https://www.soiltempproject.com/
 
@@ -99,7 +96,18 @@ Sono un biologo ambientale di formazione e attualmente ricercatore a tempo deter
 -   **Membro del team - GLORIA - sito ITCAM** \hfill<b>**Giu 2015 – ad oggi**</b>\
     **Titolo:** Global observation research initiative in alpine environments (GLORIA) - Sito Di Monitoraggio Appennino Centrale ITCAM. **Coordinatrice del sito:** Prof.ss Angela Stanisci
 
-# Esperienze nelle scuole di dottorato
+# Responsabilità istituzionali
+
+-   **Membro della commissione comunicazione e social media** del Dipartimento di Medicina clinica, sanità pubblica, scienze della vita e dell'ambiente (MESVA), Università Degli Studi dell'Aquila, L’Aquila, Italy.
+
+------------------------------------------------------------------------
+
+# Attività didattiche
+
+## **In breve**
+-   <b>***Attività didattica negli ultimi 3 Anni Accademici***</b> \newline - \hspace{1 mm} AA 2023/24 **100h** Laurea Triennale e Magistrale + **10h** Scuola di dottorato \newline - \hspace{1 mm} AA 2022/23 **90h** Laurea Triennale e Magistrale + **14h** Scuola di dottorato \newline  - \hspace{1 mm} AA 2021/22 **32h** Laurea Triennale e Magistrale + **16h** Scuola di dottorato
+
+## **Attività nelle scuole di dottorato**
 
 -   **Ph.D. Co-supervisor** \hfill<b>**Mar 2024 – ad oggi**</b>\
     **Dottorando:** Giacomo Cangelmi presso l'Università Degli Studi dell'Aquila **Titolo:** Biodiversity and Ecosystems Cheange in Protected Areas. **SSD:** BIOS-01/C (ex BIO/03).
@@ -112,11 +120,7 @@ Sono un biologo ambientale di formazione e attualmente ricercatore a tempo deter
 
 -   **Docente** per i dottorandi della scuola di dottorato in Scienze della Salute e dell'Ambiente; Dipartimento di Medicina clinica, sanità pubblica, scienze della vita e dell'ambiente (MESVA), Università Degli Studi dell'Aquila, L’Aquila, Italia. **AA:** 2021/2022 **Corso:** Data management and biostatistics (16h); **AA:** 2022/2023 **Corso:** Data management, visualization and reporting using R (14h); **AA:** 2023/2024 **Corso:** Management of Biological and Environmental Data with R (10h).
 
-# Responabilità istituzionali
-
--   **Membro della commissione comunicazione e social media** del Dipartimento di Medicina clinica, sanità pubblica, scienze della vita e dell'ambiente (MESVA), Università Degli Studi dell'Aquila, L’Aquila, Italy.
-
-# Attività come docente
+## **Attività come docente**
 
 ```{r}
 #| echo: false
@@ -130,6 +134,8 @@ did_ita_cv <- readRDS("input/did_ita.RDS")
 
 `r did_ita_cv`
 
+## **Altre attività**
+
 -   ***Tutoraggio***
 
 -   Tutor per le lezioni pratiche di: **Statistical analysis and modelling - Module 2** (10h) Master in Scienze e Gestione della Natura. **Docente:** Prof. Piero Zannini. <b>**Anno Accademico:**</b> 2021-2022. <b>**Semestre:**</b> I.
@@ -138,30 +144,44 @@ did_ita_cv <- readRDS("input/did_ita.RDS")
 
 -   Tutor per le attività di laboratorio e attività di campo per il corso di: **Botanica ambientale** (6h) Laurea magistrale in Biologia Ambientale e Gestione degli Ecosistemi. **Docente:** Prof.ssa Anna Rita Frattaroli. <b>**Anni accademici:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semestre:**</b> II.
 
+-   ***Docenza extra universitaria***
+
+-   **Docente** \hfill<b>**Gen 2022 – Mag 2022**</b>\
+    **Titolo:** Network per lo studio della diversità micologica (ndm); **Titolo del contributo:** Ecosistemi e habitat terrestri **Coordinator:** Istituto superiore per la protezione e ricerca ambientale (ISPRA). **Link:** https://ndm.isprambiente.it/attivita/educazione-e-formazione-ambientale/percorso-formativo-di-micologia-ambientale/
+
 -  ***Relatore o co-relatore***
 -   Ho svolto il ruolo di Relatore o Co-relatore a più di **10 tesi magistrali** and più di **20 tesi triennali** sia all'Università dell'Aquila che presso L'Università di Bologna.
 
--  ***Terza missione*** 
--  Coordinamento e supporto del Pop-Up delle Scienze Ambientali nell’evento “Notte dei Ricercatori” in diversi anni dal 2016 al 2023. \newline
-Supporto per il progetto PLS (Piano Lauree Scientifiche) del Dipartimento MESVA, attraverso incontri mirati a educare gli studenti delle scuole medie e superiori su temi legati alla biodiversità e alla sostenibilità ambientale. \newline
+
+# Terza missione
+
+-  Coordinamento e supporto del Pop-Up delle Scienze Ambientali nell’evento **“Notte dei Ricercatori”** in diversi anni dal 2016 al 2023. \newline
+Supporto per il progetto **PLS (Piano Lauree Scientifiche)** del Dipartimento MESVA, attraverso incontri mirati a educare gli studenti delle scuole medie e superiori su temi legati alla biodiversità e alla sostenibilità ambientale. \newline
 Numerosi interventi a incontri ed eventi a scala locale con finalità di terza missione.
 
+------------------------------------------------------------------------
 
--   <b>***Attività didattica negli ultimi 3 Anni Accademici***</b> \newline - \hspace{1 mm} AA 2023/24 **100h** Laurea Triennale e Magistrale + **10h** Scuola di dottorato \newline - \hspace{1 mm} AA 2022/23 **90h** Laurea Triennale e Magistrale + **14h** Scuola di dottorato \newline  - \hspace{1 mm} AA 2021/22 **32h** Laurea Triennale e Magistrale + **16h** Scuola di dottorato
+# Formazione accademica
 
-
-# Background accademico
-
--   **Dottorato di Ricerca in Scienze della Salute e dell'Ambiente** \hfill <b>**Nov 2016 - Ott 2019**</b>\
-    **SSD:** BIOS-01/C (ex BIO/03) **Titolo tesi:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Eccellente cum laude** \newline Università Degli Studi dell'Aquila, L'Aquila, Italia. \newline <b>**Supervisor:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Supervisor:**</b> Prof. Jean-Paul Theurillat
+-   **Dottorato di Ricerca in Scienze della Salute e dell'Ambiente** \hfill <b>**Nov 2016 - Apr 2020**</b>\
+    **SSD:** BIOS-01/C (ex BIO/03) **Titolo tesi:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Eccellente cum laude** \newline Università Degli Studi dell'Aquila, L'Aquila, Italia. 
+    \newline <b>**Data di conseguimento:**</b> 02 Apr 2020  
+    \newline <b>**Supervisor:**</b> Prof.ssa Anna Rita Frattaroli; 
+    \newline <b>**Co-Supervisor:**</b> Prof. Jean-Paul Theurillat
 
 -   **Laurea a doppio titolo in Biologia Ambientale** \hfill <b>**Set 2014 - Lug 2016**</b>\
-    Magistrale in Biologia Ambientale (LM6), Università Degli Studi dell'Aquila, L’Aquila, Italia; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Titolo della tesi:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Relatrice:**</b> Prof.ssa Angela Stanisci
+    Magistrale in Biologia Ambientale (LM6), Università Degli Studi dell'Aquila, L’Aquila, Italia; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Titolo della tesi:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** 
+    \newline <b>**Data di conseguimento:**</b> 23 Lug 2016
+    \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; 
+    \newline <b>**Co-Relatrice:**</b> Prof.ssa Angela Stanisci
 
 -   **Laurea Triennale in Scienze e Tecnologie per l'Ambiente** \hfill <b>**Set 2011 - Lug 2014**</b>\
-    Triennale in Scienze e Tecnologie per l'Ambiente (L75), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo tesi:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Relatore:**</b> Dott. Valter Di Cecco
+    Triennale in Scienze e Tecnologie per l'Ambiente (L75), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo tesi:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** 
+    \newline <b>**Data di conseguimento:**</b> 18 Lug 2014
+    \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; 
+    \newline <b>**Co-Relatore:**</b> Dott. Valter Di Cecco
 
-# Esperienze formative
+## **Esperienze formative**
 
 -   **Periodo all'estero dottorato** \hfill <b>**Nov 2017 - Dic 2017**</b>\
     **Obiettivo:** Investigare i patter di ricchezza e composizione di specie, utilizzando i dati provenienti da uno schema di campionamento nested lungo due transetti altitudinali in Italia. \newline Spatial Ecology Lab. ECOSPAT, Dipertimento di Ecologia ed Evoluzione, Università di Losanna, Svizzera \newline <b>**Tutor:**</b> Prof. Antoine Guisan
@@ -177,25 +197,28 @@ Numerosi interventi a incontri ed eventi a scala locale con finalità di terza m
     
 # Competenze professionali e tecniche
 
--   Ottima competenze nella gestione e analisi dati, nonchè ottime capacità di visualizzazione e reporting dei risultati. Profonda conoscenza delle analisi statistiche applicate all'ecologia e all'utilizzo di dati spaziali e cartografici. Lavoro principalmente con linguaggi di programmazione, specialmente con R ma anche Python e Julia; ho anche un'eccellente conoscenza dei principali software GIS come Qgis e ArcGis. Mi occupo anche di acquisizione e analisi dati satellitari tramite Google Earth Engine. Ho una buona conoscenza dei software per l'analisi d'immagine legata principalmente alla misurazione dei plant traits, come ad esempio ImageJ, Gimp, Adobe Photoshop. \newline
+## **Desktop skills**
+-   Ottima competenza nella **gestione e analisi dati**. \newline
+Ottime capacità di **visualizzazione e reporting** dei risultati. \newline
+Profonda conoscenza delle principali tipologie di **analisi statistiche applicate in ecologia**. \newline
+Approfondita esperienza nelle tecniche di **modellistica ecologica**. \newline
+Ottima **capacità di programmazione in R**, buona in Python e Julia. \newline
+Ottima conoscenza dei software GIS: **Qgis e ArcGis**. \newline
+Buone capacità di acquisizione e analisi dati satellitari: **Google Earth Engine**. \newline
+Buone capacità di analisi d'immagini: **ImageJ, Gimp, Adobe Photoshop**. \newline
 
--   L'attivtà di campo per il monitoraggio delle specie e comunità vegetali in ambiente montano fanno parte del mio background sin dall'inizio della mia carriera. Ho una profonda esperienza nell'attività di ricerca in campo specialmente in ambienti complessi e difficilmente raggiungibili. Seguo da diversi anni numerosi progetti di monitoraggio della temperatura, principalmente quella del suolo, coordinando e partecipando a diverse iniziative in Italia e all'estero. Lavorando ormai da diversi anni su progetti multitassonomici ho acquisito anche esperienze per quanto riguarda il campionamento di artropodi e fauna invertebrata in generale. 
+## **Field & Lab. skills**
+-   Ottima capacità di **monitoraggio delle specie e comunità vegetali**. \newline
+Profonda esperienza nell'attività di **ricerca in campo**, specialmente in ambienti montani. \newline
+Ottima conoscenza nella raccolta e misurazione dei principali **plant traits**. \newline
+Ottime competenze nella gestione dei **datalogger climatici** per il monitoraggio della temperatura e umidità sia dell'aria che del suolo) \newline
+Buone conoscenze sul campionamento di **artropodi e fauna invertebrata** in generale. \newline
+
+------------------------------------------------------------------------
 
 # Pubblicazioni
 
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-#| output: false
-
-pubbl_scp <- readRDS("input/publication.RDS")
-
-```
-
-`r pubbl_scp`
-
-# Indicatori Bibliometrici
+## **Indicatori Bibliometrici**
 
 ```{r}
 #| echo: false
@@ -209,9 +232,53 @@ bblio_ind <- readRDS("input/bblio_ind.RDS")
 
 -   `r bblio_ind`
 
+## **Articoli su riviste scientifiche**
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+pubbl_scp <- readRDS("input/publication.RDS")
+
+```
+
+`r pubbl_scp`
+
+## **Altri contributi scientifici**
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+pubbl_other <- readRDS("input/other_publication.RDS")
+
+```
+
+`r pubbl_other`
+
+\vspace{5 mm}
+
 # Conferenze
 
--   ***Comunicazioni orali, invited speaker o membro del comitato scientifico/organizzatore***
+## **In breve**
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+sum_conf <- readRDS("input/sum_conf_ITA.RDS")
+
+```
+
+`r sum_conf`
+
+## **Comunicazioni orali, invited speaker o membro del comitato scientifico/organizzatore**
 
 ```{r}
 #| echo: false
@@ -225,7 +292,7 @@ conf_m <- readRDS("input/conference.RDS")
 
 `r conf_m`
 
--   ***Poster***
+##   **Poster**
 
 ```{r}
 #| echo: false
@@ -241,19 +308,7 @@ poster <- readRDS("input/poster.RDS")
 
 \vspace{5 mm}
 
--   ***Summary***
 
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-#| output: false
-
-sum_conf <- readRDS("input/sum_conf_ITA.RDS")
-
-```
-
-`r sum_conf`
 
 # Premi e riconoscimenti
 
@@ -291,13 +346,13 @@ sum_conf <- readRDS("input/sum_conf_ITA.RDS")
 
 ------------------------------------------------------------------------
 
-\vspace{10 mm}
+\vspace{0 mm}
 
 ## ~Il presente CV è stato realizzato utilizzando solo  software opensource;~ \newline ~la lista delle pubblicazioni e gli indicatori bibliometrici sono stati scaricati automaticamente da Scopus.~
 
 ------------------------------------------------------------------------
 
-\vspace{15 mm}
+\vspace{5 mm}
 
 ```{r}
 #| echo: FALSE

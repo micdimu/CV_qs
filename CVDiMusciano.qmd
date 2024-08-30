@@ -35,7 +35,7 @@ library(RefManageR)
 
 # Research Interests
 
-I am an environmental biologist, and researcher of applied botany at the University of L’Aquila, with a background in alpine ecology, ecological modelling, and plant traits. I am currently working on past and present factors shaping diversity patterns and processes of plant communities (vegetation) from micro to macro scale. Focusing mostly on mountain ecosystems, my principal aim is to disentangle the role of climate, topographic and anthropogenic factors on the taxonomic, functional, and phylogenetic composition and dissimilarity of plant communities. I'm currently working on topics related to conservation biology, trying to quantify the effectiveness of protected areas in conserving biodiversity. Last but not least, since 2023, I've joined projects focused on Islands, of which some aim to investigate the ecological dynamics of plant communities in small islands.
+I am an environmental biologist, and researcher of applied botany at the University of L’Aquila, with a background in alpine ecology, ecological modelling, and plant traits. I am working on past and present factors shaping diversity patterns and processes of plant communities (vegetation) from micro to macro scale. Focusing mostly on mountain ecosystems, my principal aim is to disentangle the role of climate, topographic and anthropogenic factors on the taxonomic, functional, and phylogenetic composition and dissimilarity of plant communities. I'm currently working on topics related to conservation biology, trying to quantify the effectiveness of protected areas in conserving biodiversity. Last but not least, since 2023, I've joined projects focused on Islands, of which some aim to investigate the ecological dynamics of plant communities in small islands.
 
 # Main research Topics
 
@@ -88,9 +88,6 @@ I am an environmental biologist, and researcher of applied botany at the Univers
 -   **Member of the Scientific Advisory Board - TracEve** \hfill<b>**Mar 2023 – ongoing**</b>\
     **Title:** Tracing the evergreen broad-leaved species and their spread. **Coordinator:** University of Innsbruck. **Link:** https://www.uibk.ac.at/en/projects/traceve/
     
--   **Lecturer** \hfill<b>**Jan 2022 – May 2022**</b>\
-**Title:** Network for mycological diversity studies (ndm); **Contribute title:** Ecosystem and terrestrial habitat **Coordinator:** Italian Institute for Environmental Protection and Research (ISPRA). **Link:** https://ndm.isprambiente.it/attivita/educazione-e-formazione-ambientale/percorso-formativo-di-micologia-ambientale/
-
 -   **Data Contributor** \hfill<b>**Sep 2020 – ongoing**</b>\
 **Title:** SoilTemp (global database of soil and near surface microclimate time series). **Contribute:** Data from several dataloggers (<50) placed in remote areas (encompassing high elevation of the Apennines and glacier). **Coordinator:** Jonas Lembrechts. **Link:** https://www.soiltempproject.com/
 
@@ -99,25 +96,34 @@ I am an environmental biologist, and researcher of applied botany at the Univers
 
 -   **Member of the core team - GLORIA - ITCAM site** \hfill<b>**June 2015 – ongoing**</b>\
     **Title:** Global observation research initiative in alpine environments (GLORIA) - Monitoring site Central Apennines ITCAM. **Site coordinator:** Prof. Angela Stanisci
-
-# Ph.D tutoring and lecturing
-
--   **Ph.D. Co-supervisor** \hfill<b>**Mar 2024 – ongoing**</b>\
-    **Ph.D candidate:** Giacomo Cangelmi at the University of L'Aquila **Title:** Biodiversity and Ecosystems Cheange in Protected Areas. **SSD:** BIOS-01/C (ex BIO/03).
-
--   **Ph.D. Co-supervisor** \hfill<b>**Nov 2023 – ongoing**</b>\
-    **Ph.D candidate:** Rocio Beatriz Cortes Lobos at Alma Mater Studiorum - University of Bologna **Title:** Deep learning for modelling current and future biodiversity scenarios. **SSD:** BIOS-01/C (ex BIO/03).
-
--   **Ph.D. Co-supervisor** \hfill<b>**Nov 2022 – ongoing**</b>\
-    **Ph.D candidate:** Lorenzo Ricci at the University of L'Aquila **Title:** The role of Protected Areas in conserving Plant Biodiversity across Europe. **SSD:** BIOS-01/C (ex BIO/03).
-
--   **Lecturer** for the Ph.D. candidates of the Life and Environmental Science school; Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. **AY:** 2021/2022 **Course title:** Data management and biostatistics (16h); **AY:** 2022/2023 **Course title:** Data management, visualization and reporting using R (14h); **AY:** 2023/2024 **Course title:** Management of Biological and Environmental Data with R (10h).
-
+    
 # Institutional Responsibilities
 
 -   **Member of the communication and social media commission** of the Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy.
 
-# Teaching activities
+
+------------------------------------------------------------------------
+
+# Academic activities
+
+## **In brief**
+-   <b>**Summary of the teaching activities in the last 3 AYs**</b> \newline - \hspace{1 mm} AY 2023/24 **100h** bachelor and master degrees + **10h** Ph.D. school \newline - \hspace{1 mm} AY 2022/23 **90h** bachelor and master degrees + **14h** Ph.D. school \newline  - \hspace{1 mm} AY 2021/22 **32h** bachelor and master degrees + **16h** Ph.D. school
+
+## **Ph.D. tutoring and lecturing**
+
+-   **Ph.D. Co-supervisor** \hfill<b>**Mar 2024 – ongoing**</b>\
+    **Ph.D. candidate:** Giacomo Cangelmi at the University of L'Aquila **Title:** Biodiversity and Ecosystems Cheange in Protected Areas. **SSD:** BIOS-01/C (ex BIO/03).
+
+-   **Ph.D. Co-supervisor** \hfill<b>**Nov 2023 – ongoing**</b>\
+    **Ph.D. candidate:** Rocio Beatriz Cortes Lobos at Alma Mater Studiorum - University of Bologna **Title:** Deep learning for modelling current and future biodiversity scenarios. **SSD:** BIOS-01/C (ex BIO/03).
+
+-   **Ph.D. Co-supervisor** \hfill<b>**Nov 2022 – ongoing**</b>\
+    **Ph.D. candidate:** Lorenzo Ricci at the University of L'Aquila **Title:** The role of Protected Areas in conserving Plant Biodiversity across Europe. **SSD:** BIOS-01/C (ex BIO/03).
+
+-   **Lecturer** for the Ph.D. candidates of the Life and Environmental Science school; Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. **AY:** 2021/2022 **Course title:** Data management and biostatistics (16h); **AY:** 2022/2023 **Course title:** Data management, visualization and reporting using R (14h); **AY:** 2023/2024 **Course title:** Management of Biological and Environmental Data with R (10h).
+
+
+## **Teaching activities**
 
 ```{r}
 #| echo: false
@@ -131,6 +137,8 @@ did_eng_cv <- readRDS("input/did_eng.RDS")
 
 `r did_eng_cv`
 
+## **Other activities**
+
 -  ***Tutoring***
 
 -   Tutoring for pratical lecture, course: **Statistical analysis and modelling - Module 2** (10h) Master degree in Science and Management of Nature. **Course lecturer:** Prof. Piero Zannini. <b>**Accademic Year:**</b> 2021-2022. <b>**Semester:**</b> I.
@@ -139,27 +147,43 @@ did_eng_cv <- readRDS("input/did_eng.RDS")
 
 -   Tutoring for laboratory and fieldwork activities, course: **Applied Botany** (6h) Master degree in Environmental Biology and Ecosystem Management. **Course lecturer:** Prof. Anna Rita Frattaroli. <b>**Accademic Years:**</b> 2016-2017, 2017-2018, 2018-2019, 2019-2020. <b>**Semester:**</b> II.
 
--  ***Supervisor***
+-   ***Extra-university teaching***
+
+-   **Lecturer** \hfill<b>**Jan 2022 – May 2022**</b>\
+**Title:** Network for mycological diversity studies (ndm); **Contribute title:** Ecosystem and terrestrial habitat **Coordinator:** Italian Institute for Environmental Protection and Research (ISPRA). **Link:** https://ndm.isprambiente.it/attivita/educazione-e-formazione-ambientale/percorso-formativo-di-micologia-ambientale/
+
+-  ***Supervisor or co-supervisor***
 -   I have supervised or co-supervised more than **10 master's theses** and more than **20 bachelor's theses** both at the University of L'Aquila and at the University of Bologna
 
+# Terza missione
 
--   <b>**Summary of the teaching activities in the last 3 AYs**</b> \newline - \hspace{1 mm} AY 2023/24 **100h** bachelor and master degrees + **10h** Ph.D. school \newline - \hspace{1 mm} AY 2022/23 **90h** bachelor and master degrees + **14h** Ph.D. school \newline  - \hspace{1 mm} AY 2021/22 **32h** bachelor and master degrees + **16h** Ph.D. school
+-  Coordinamento e supporto del Pop-Up delle Scienze Ambientali nell’evento **“Notte dei Ricercatori”** in diversi anni dal 2016 al 2023. \newline
+Supporto per il progetto **PLS (Piano Lauree Scientifiche)** del Dipartimento MESVA, attraverso incontri mirati a educare gli studenti delle scuole medie e superiori su temi legati alla biodiversità e alla sostenibilità ambientale. \newline
+Numerosi interventi a incontri ed eventi a scala locale con finalità di terza missione.
 
+------------------------------------------------------------------------
 
+# Accademic training
 
-
-# Accademic background
-
--   **Ph.D. in Life and Environmental Science** \hfill <b>**Nov 2016 - Oct 2019**</b>\
-    **SSD:** BIOS-01/C (ex BIO/03) **Dissertation:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Excellent cum laude** \newline University of L’Aquila, L'Aquila, Italy. \newline <b>**Advisor:**</b> Prof. Anna Rita Frattaroli; \newline <b>**Co-Advisor:**</b> Prof. Jean-Paul Theurillat
+-   **Ph.D. in Life and Environmental Science** \hfill <b>**Nov 2016 - Apr 2019**</b>\
+    **SSD:** BIOS-01/C (ex BIO/03) **Dissertation:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Excellent cum laude**  \newline University of L’Aquila, L'Aquila, Italy. 
+        \newline <b>**Graduation date:**</b> 02 Apr 2020 
+        \newline <b>**Advisor:**</b> Prof. Anna Rita Frattaroli; 
+        \newline <b>**Co-Advisor:**</b> Prof. Jean-Paul Theurillat
 
 -   **Dual Master's Degree in Environmental Biology** \hfill <b>**Sep 2014 - Jul 2016**</b>\
-    Master in Environmental Biology (LM6), University of L’Aquila, L’Aquila, Italy; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Thesis title:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** \newline <b>**Advisor:**</b> Prof. Anna Rita Frattaroli; \newline <b>**Co-Advisor:**</b> Prof. Angela Stanisci
+    Master in Environmental Biology (LM6), University of L’Aquila, L’Aquila, Italy; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Thesis title:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** 
+    \newline <b>**Graduation date:**</b> 23 Lug 2016
+    \newline <b>**Advisor:**</b> Prof. Anna Rita Frattaroli; 
+    \newline <b>**Co-Advisor:**</b> Prof. Angela Stanisci
 
 -   **Bachelor's Degree in Environmental Science and technology** \hfill <b>**Sep 2011 - Jul 2014**</b>\
-    Bachelor in Environmental Science and technology (L75), University of L’Aquila, L’Aquila, Italy. \newline <b>**Thesis title:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** \newline <b>**Advisor:**</b> Prof. Anna Rita Frattaroli; \newline <b>**Co-Advisor:**</b> Dott. Valter Di Cecco
+    Bachelor in Environmental Science and technology (L75), University of L’Aquila, L’Aquila, Italy. \newline <b>**Thesis title:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** 
+    \newline <b>**Graduation date:**</b> 18 Lug 2014
+    \newline <b>**Advisor:**</b> Prof. Anna Rita Frattaroli; 
+    \newline <b>**Co-Advisor:**</b> Dott. Valter Di Cecco
 
-# Training experience
+## **Training experience**
 
 -   **Visiting PhD Student** \hfill <b>**Nov 2017 - Dec 2017**</b>\
     **Aims:** Disentangle the patterns of species richness and composition from a set of nested vegetation plots along two elevation transects in Italy. \newline Spatial Ecology Lab. ECOSPAT, Department of Ecology and Evolution, University of Lausanne, Switzerland \newline <b>**Tutor:**</b> Prof. Antoine Guisan
@@ -173,22 +197,31 @@ did_eng_cv <- readRDS("input/did_eng.RDS")
 
 -   **Traineeship at Maiella National Park** \hfill <b>**Apr 2015 - Sep 2015**</b>\
      **Aims:** Laboratory activities focused on germination ecology, ex-situ conservation, restocking and reintroduction of threatened species, seeds collection. Seeds bank and botanical garden “Michele Tenore”. \newline <b>**Tutor:**</b> Dott. Luciano Di Martino
+     
+# Competenze professionali e tecniche
+
+## **Desktop skills**
+-   Ottima competenza nella **gestione e analisi dati**. \newline
+Ottime capacità di **visualizzazione e reporting** dei risultati. \newline
+Profonda conoscenza delle principali tipologie di **analisi statistiche applicate in ecologia**. \newline
+Approfondita esperienza nelle tecniche di **modellistica ecologica**. \newline
+Ottima **capacità di programmazione in R**, buona in Python e Julia. \newline
+Ottima conoscenza dei software GIS: **Qgis e ArcGis**. \newline
+Buone capacità di acquisizione e analisi dati satellitari: **Google Earth Engine**. \newline
+Buone capacità di analisi d'immagini: **ImageJ, Gimp, Adobe Photoshop**. \newline
+
+## **Field & Lab. skills**
+-   Ottima capacità di **monitoraggio delle specie e comunità vegetali**. \newline
+Profonda esperienza nell'attività di **ricerca in campo**, specialmente in ambienti montani. \newline
+Ottima conoscenza nella raccolta e misurazione dei principali **plant traits**. \newline
+Ottime competenze nella gestione dei **datalogger climatici** per il monitoraggio della temperatura e umidità sia dell'aria che del suolo) \newline
+Buone conoscenze sul campionamento di **artropodi e fauna invertebrata** in generale. \newline
+
+------------------------------------------------------------------------
 
 # Publications
 
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-#| output: false
-
-pubbl_scp <- readRDS("input/publication.RDS")
-
-```
-
-`r pubbl_scp`
-
-# Bibliometrics indicators
+## **Bibliometrics indicators**
 
 ```{r}
 #| echo: false
@@ -202,8 +235,52 @@ bblio_ind <- readRDS("input/bblio_ind.RDS")
 
 -   `r bblio_ind`
 
+## **Scientific articles**
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+pubbl_scp <- readRDS("input/publication.RDS")
+
+```
+
+`r pubbl_scp`
+
+## **Other scientific contribution**
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+pubbl_other <- readRDS("input/other_publication.RDS")
+
+```
+
+`r pubbl_other`
+
+\vspace{5 mm}
+
 # Conferences
--   **_Speaker, invited speaker or member of the organizing/scientific committee_**
+
+-   **In brief**
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+sum_conf <- readRDS("input/sum_conf.RDS")
+
+```
+
+`r sum_conf`
+
+## **Speaker, invited speaker or member of the organizing/scientific committee**
 ```{r}
 #| echo: false
 #| warning: false
@@ -216,7 +293,7 @@ conf_m <- readRDS("input/conference.RDS")
 
 `r conf_m`
 
--   **_Poster_**
+## **Poster**
 ```{r}
 #| echo: false
 #| warning: false
@@ -231,18 +308,7 @@ poster <- readRDS("input/poster.RDS")
 
 \vspace{5 mm}
 
--   **_Summary_**
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-#| output: false
 
-sum_conf <- readRDS("input/sum_conf.RDS")
-
-```
-
-`r sum_conf`
 
 # Awards
 
@@ -280,13 +346,13 @@ sum_conf <- readRDS("input/sum_conf.RDS")
 
 ------------------------------------------------------------------------
 
-\vspace{10 mm}
+\vspace{0 mm}
 
-~The presented CV was made using only opensource software; the list of publications and the bibliometrics indicators was automatically downloaded from Scopus~
+## ~The presented CV was made using only opensource software;~ \newline ~the list of publications and the bibliometrics indicators was automatically downloaded from Scopus~
 
 ------------------------------------------------------------------------
 
-\vspace{15 mm}
+\vspace{10 mm}
 
 ```{r}
 #| echo: FALSE

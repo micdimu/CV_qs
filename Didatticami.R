@@ -21,7 +21,7 @@ saveRDS(did_eng_out, "input/did_eng.RDS")
 did_ita <- read.csv("input/Didattica_ita.csv")
 
 did_ita_out <- did_ita |> 
-  (\(.) paste("Nome dell'insegnamento: ", "**", .$name, "** ",
+  (\(.) paste("Corso: ", "**", .$name, "** ",
               "(", did_eng$cfu, "CFU - ", .$hour , "h), ",
               "**SSD:** ", .$SSD, " ",
               "**Anno Accademico:** ", .$Ays, ", ",
@@ -33,6 +33,12 @@ did_ita_out <- did_ita |>
   (\(.)paste("- ", .))()
 
 saveRDS(did_ita_out, "input/did_ita.RDS")
+
+
+# docenza per la lezione svolta all’interno del corso di
+# guide escursionistiche del Parco Nazionale della Maiella riguardante il ruolo delle
+# aree protette negli scenari di cambiamenti climatici per la conservazione della
+# biodiversità. 
 
 #### old but gold 
 # 

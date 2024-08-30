@@ -19,6 +19,9 @@ rscopus::set_api_key("dcc45b1f237b20ba44fd8b10ed7a38d6")
 
 myscopus <- rscopus::author_df(last_name = "Di Musciano", first_name = "Michele", api_key = "dcc45b1f237b20ba44fd8b10ed7a38d6", verbose = F)
 
+myscopus$`prism:aggregationType`
+myscopus$
+
 citazioni <- map(myscopus$`prism:doi`, function(x)
   cr_cn(dois = x, "bibentry", "apa")
 )
@@ -54,10 +57,9 @@ authors <- map(citazioni, \(x){
   formatAuthor(x$author)
 }) 
 
-
 cinque <- map2_df(authors, citazioni, \(x, y){
   bind_cols(aut = x, year = y$year, title = y$title, journ = y$journal, 
-            vol = y$volume, ISSN = y$ISSN, doi = y$DOI)
+            vol = y$volume, ISSN = y$ISSN, doi = y$DOI, book = y$booktitle)
 }) |> 
   filter(!is.na(aut))
 
@@ -72,7 +74,8 @@ flora_medit <- bind_cols(
   ISSN = "2240-4538", 
   doi = "10.7320/flmedit31.277")
 
-cinque <- bind_rows(cinque, flora_medit)
+cinque <- bind_rows(cinque, flora_medit)|> 
+  mutate(doi = tolower(doi)) 
 ####
 
 cinque$vol[is.na(cinque$vol)] <- ""
@@ -81,24 +84,54 @@ cinque$vol[is.na(cinque$vol)] <- ""
 cinque$aut[-grep("Di Musciano", cinque$aut)] <- gsub("Djukic I." , "Djukic I.; **TeaComposition Network (Di Musciano M.)**",
                                                      cinque$aut[-grep("Di Musciano", cinque$aut)])
 
+### book or not book ###
+
+settete <- myscopus |> 
+  select(doi = `prism:doi`, jb = `prism:aggregationType`) |> 
+  mutate(doi = tolower(doi)) |> 
+  full_join(cinque)
+
+sei <- settete |> 
+  filter(jb == "Journal")
 #### order by year ###
 
-cinque <- cinque |> 
+sei <- sei |> 
   mutate(year = as.numeric(year)) |> 
   arrange(desc(year))
 
-cinque$aut[1] <- paste("*", cinque$aut[1])
+sei$aut[1] <- paste("*", sei$aut[1])
 
 
-alfredo <- paste0(paste(cinque$aut, 
-                        paste("(", cinque$year, ")", sep = ""),
-                        paste("**", cinque$title, "**", sep = ""), "-",
-                        paste("*", cinque$journ, "*", sep = ""), "-", paste0(cinque$vol,", "),
-                        cinque$ISSN, "- **doi:** ", cinque$doi), collapse = " \\newline \\newline ") |> 
+alfredo <- paste0(paste(sei$aut, 
+                        paste("(", sei$year, ")", sep = ""),
+                        paste("**", sei$title, "**", sep = ""), "-",
+                        paste("*", sei$journ, "*", sep = ""), "-", paste0(sei$vol,", "),
+                        sei$ISSN, "- **doi:** ", sei$doi), collapse = " \\newline \\newline ") |> 
   (\(.) gsub(" , ", "", .))()
 
 saveRDS(alfredo, "input/publication.RDS")
 
+### tutto il resto ####
+
+otto <- settete |> 
+  filter(jb != "Journal")
+#### order by year ###
+
+otto <- otto |> 
+  mutate(year = as.numeric(year)) |> 
+  arrange(desc(year))
+
+otto$aut[1] <- paste("*", otto$aut[1])
+
+
+baciami <- paste0(paste(otto$aut, 
+                        paste("(", otto$year, ")", sep = ""),
+                        paste("**", otto$title, "**", sep = ""), "-",
+                        paste("*", otto$book, "*", sep = ""), "-", paste0(otto$vol,", "),
+                        otto$ISSN, "- **doi:** ", otto$doi), collapse = " \\newline \\newline ") |> 
+  (\(.) gsub(" , ", "", .))()
+
+saveRDS(baciami, "input/other_publication.RDS")
 
 
 ##### Bibliometrics indicators
