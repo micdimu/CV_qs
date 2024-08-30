@@ -141,6 +141,11 @@ did_ita_cv <- readRDS("input/did_ita.RDS")
 -  ***Relatore o co-relatore***
 -   Ho svolto il ruolo di Relatore o Co-relatore a più di **10 tesi magistrali** and più di **20 tesi triennali** sia all'Università dell'Aquila che presso L'Università di Bologna.
 
+-  ***Terza missione*** 
+-  Coordinamento e supporto del Pop-Up delle Scienze Ambientali nell’evento “Notte dei Ricercatori” in diversi anni dal 2016 al 2023. \newline
+Supporto per il progetto PLS (Piano Lauree Scientifiche) del Dipartimento MESVA, attraverso incontri mirati a educare gli studenti delle scuole medie e superiori su temi legati alla biodiversità e alla sostenibilità ambientale. \newline
+Numerosi interventi a incontri ed eventi a scala locale con finalità di terza missione.
+
 
 -   <b>***Attività didattica negli ultimi 3 Anni Accademici***</b> \newline - \hspace{1 mm} AA 2023/24 **100h** Laurea Triennale e Magistrale + **10h** Scuola di dottorato \newline - \hspace{1 mm} AA 2022/23 **90h** Laurea Triennale e Magistrale + **14h** Scuola di dottorato \newline  - \hspace{1 mm} AA 2021/22 **32h** Laurea Triennale e Magistrale + **16h** Scuola di dottorato
 
@@ -169,6 +174,12 @@ did_ita_cv <- readRDS("input/did_ita.RDS")
 
 -   **Tirocinio** \hfill <b>**Apr 2015 - Set 2015**</b>\
     **Obiettivi:** Attività di laboratorio e raccolta semi per favorire la conservazione ex-situ, nonchè la reintroduzione di specie vegetali rare e/o minacciate. Banca del Germoplasma e Giardino Botanico “Michele Tenore”. \newline <b>**Tutor:**</b> Dott. Luciano Di Martino
+    
+# Competenze professionali e tecniche
+
+-   Ottima competenze nella gestione e analisi dati, nonchè ottime capacità di visualizzazione e reporting dei risultati. Profonda conoscenza delle analisi statistiche applicate all'ecologia e all'utilizzo di dati spaziali e cartografici. Lavoro principalmente con linguaggi di programmazione, specialmente con R ma anche Python e Julia; ho anche un'eccellente conoscenza dei principali software GIS come Qgis e ArcGis. Mi occupo anche di acquisizione e analisi dati satellitari tramite Google Earth Engine. Ho una buona conoscenza dei software per l'analisi d'immagine legata principalmente alla misurazione dei plant traits, come ad esempio ImageJ, Gimp, Adobe Photoshop. \newline
+
+-   L'attivtà di campo per il monitoraggio delle specie e comunità vegetali in ambiente montano fanno parte del mio background sin dall'inizio della mia carriera. Ho una profonda esperienza nell'attività di ricerca in campo specialmente in ambienti complessi e difficilmente raggiungibili. Seguo da diversi anni numerosi progetti di monitoraggio della temperatura, principalmente quella del suolo, coordinando e partecipando a diverse iniziative in Italia e all'estero. Lavorando ormai da diversi anni su progetti multitassonomici ho acquisito anche esperienze per quanto riguarda il campionamento di artropodi e fauna invertebrata in generale. 
 
 # Pubblicazioni
 
