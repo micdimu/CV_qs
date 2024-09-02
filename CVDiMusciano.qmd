@@ -155,11 +155,11 @@ did_eng_cv <- readRDS("input/did_eng.RDS")
 -  ***Supervisor or co-supervisor***
 -   I have supervised or co-supervised more than **10 master's theses** and more than **20 bachelor's theses** both at the University of L'Aquila and at the University of Bologna
 
-# Terza missione
+# Third Mission
 
--  Coordinamento e supporto del Pop-Up delle Scienze Ambientali nell’evento **“Notte dei Ricercatori”** in diversi anni dal 2016 al 2023. \newline
-Supporto per il progetto **PLS (Piano Lauree Scientifiche)** del Dipartimento MESVA, attraverso incontri mirati a educare gli studenti delle scuole medie e superiori su temi legati alla biodiversità e alla sostenibilità ambientale. \newline
-Numerosi interventi a incontri ed eventi a scala locale con finalità di terza missione.
+-  Coordinator and/or member of the Pop-Up for the Natural Science for the **“Researchers' Night”** in several years from 2016 to 2023. \newline
+Support for the **PLS (Scientific Degrees Plan) project** of Department of Life, Health and Environmental Sciences (MESVA), through targeted meetings designed to inform middle and high school students about biodiversity and environmental sustainability. \newline
+Lead and participate as a speaker to local initiatives to raise awareness of environmental issues.
 
 ------------------------------------------------------------------------
 
@@ -198,24 +198,24 @@ Numerosi interventi a incontri ed eventi a scala locale con finalità di terza m
 -   **Traineeship at Maiella National Park** \hfill <b>**Apr 2015 - Sep 2015**</b>\
      **Aims:** Laboratory activities focused on germination ecology, ex-situ conservation, restocking and reintroduction of threatened species, seeds collection. Seeds bank and botanical garden “Michele Tenore”. \newline <b>**Tutor:**</b> Dott. Luciano Di Martino
      
-# Competenze professionali e tecniche
+# Professional and technical skills
 
-## **Desktop skills**
--   Ottima competenza nella **gestione e analisi dati**. \newline
-Ottime capacità di **visualizzazione e reporting** dei risultati. \newline
-Profonda conoscenza delle principali tipologie di **analisi statistiche applicate in ecologia**. \newline
-Approfondita esperienza nelle tecniche di **modellistica ecologica**. \newline
-Ottima **capacità di programmazione in R**, buona in Python e Julia. \newline
-Ottima conoscenza dei software GIS: **Qgis e ArcGis**. \newline
-Buone capacità di acquisizione e analisi dati satellitari: **Google Earth Engine**. \newline
-Buone capacità di analisi d'immagini: **ImageJ, Gimp, Adobe Photoshop**. \newline
+## **Data Management Skills**
+-   Proficient in **data management and analysis**. \newline
+Proficient in results **visualization and reporting**. \newline
+Deep knowledge of the **statistical analysis applied to ecology**. \newline
+A wide experience in **ecological modelling**. \newline
+Excellent knowledge of **R language** and good of Phyton and Julia. \newline
+Proficient in GIS program: **QGIS and ArcGIS**. \newline
+A wide experience in satellite image management: **Google Earth Engine**. \newline
+Good knowledge of image analysis: **ImageJ, Gimp, Adobe Photoshop**. \newline
 
 ## **Field & Lab. skills**
--   Ottima capacità di **monitoraggio delle specie e comunità vegetali**. \newline
-Profonda esperienza nell'attività di **ricerca in campo**, specialmente in ambienti montani. \newline
-Ottima conoscenza nella raccolta e misurazione dei principali **plant traits**. \newline
-Ottime competenze nella gestione dei **datalogger climatici** per il monitoraggio della temperatura e umidità sia dell'aria che del suolo) \newline
-Buone conoscenze sul campionamento di **artropodi e fauna invertebrata** in generale. \newline
+-   Proficient in plant species and **vegetation monitoring**. \newline
+Deep knowledge of **fieldwork**, with more than 10 years of experience in high-altitude environments. \newline
+A wide experience in **plant traits** collection. \newline
+Excellent knowledge of **datalogger management** mainly applied to air and soil temperature and/or humidity. \newline
+A little experience in **arthropod sampling**. \newline
 
 ------------------------------------------------------------------------
 
