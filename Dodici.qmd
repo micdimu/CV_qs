@@ -1,0 +1,64 @@
+---
+title: "Elenco numerato delle pubblicazioni ai fini della selezione"
+author: "Michele Di Musciano"
+fontawesome: yes
+date: today
+date-format: "DD MMMM YYYY"
+fontsize: 10pt
+format: pdf
+editor: visual
+lang: it
+---
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| context: server
+library(dplyr)
+library(ggplot2)
+library(tidyverse)
+library(vitae)
+library(rscopus)
+library(tidyverse)
+library(bibtex)
+library(rcrossref)    
+library(RefManageR)
+```
+
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+d12p <- readRDS("input/dodici_pub.RDS")  
+
+```
+
+`r d12p`
+
+------------------------------------------------------------------------
+
+\vspace{15 mm}
+
+
+```{r}
+#| echo: FALSE
+#| fig-align: center
+
+dovqun <- paste(" \\hspace{2 mm}", "<b>**L'Aquila**</b>", "\\newline",
+                paste("<b>**", format(Sys.time(), '%d/%m/%Y'), "**</b>", sep = ""))
+```
+
+`r dovqun` \hspace{80 mm} <b>**Firma**</b>
+
+```{r}
+#| echo: FALSE
+#| fig-align: right
+
+knitr::include_graphics("input/firmaMichele_nb.png", dpi = 400) 
+
+```

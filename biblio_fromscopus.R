@@ -20,7 +20,7 @@ rscopus::set_api_key("dcc45b1f237b20ba44fd8b10ed7a38d6")
 myscopus <- rscopus::author_df(last_name = "Di Musciano", first_name = "Michele", api_key = "dcc45b1f237b20ba44fd8b10ed7a38d6", verbose = F)
 
 myscopus$`prism:aggregationType`
-myscopus$
+
 
 citazioni <- map(myscopus$`prism:doi`, function(x)
   cr_cn(dois = x, "bibentry", "apa")
@@ -76,7 +76,22 @@ flora_medit <- bind_cols(
 
 cinque <- bind_rows(cinque, flora_medit)|> 
   mutate(doi = tolower(doi)) 
-####
+
+## add missing from scopus ##
+
+newpaperi <- bind_cols(
+  aut = "<b>**Di Musciano M.**</b>; Calvia G.; Ruggero A.; Farris E.; Ricci L.; Frattaroli A.R.; Bagella, S.", 
+  year = "2024", 
+  title = "Elevational patterns of species richness and phylogenetic diversity in a Mediterranean island", 
+  journ = "Perspectives in Plant Ecology, Evolution and Systematics", 
+  vol = "65", 
+  ISSN = "1433-8319", 
+  doi = "10.1016/j.ppees.2024.125815")
+
+cinque <- bind_rows(cinque, newpaperi)|> 
+  mutate(doi = tolower(doi)) 
+
+## be carefull of NA presence ##
 
 cinque$vol[is.na(cinque$vol)] <- ""
 
@@ -92,7 +107,9 @@ settete <- myscopus |>
   full_join(cinque)
 
 sei <- settete |> 
-  filter(jb == "Journal")
+  filter(!grepl("Correction", title)) |> 
+  filter(jb == "Journal" | is.na(jb))
+
 #### order by year ###
 
 sei <- sei |> 
@@ -100,7 +117,6 @@ sei <- sei |>
   arrange(desc(year))
 
 sei$aut[1] <- paste("*", sei$aut[1])
-
 
 alfredo <- paste0(paste(sei$aut, 
                         paste("(", sei$year, ")", sep = ""),
@@ -241,3 +257,41 @@ confsumm_lyout_ITA <- paste(paste("<b>**", sum_conf_ITA$sum_post, "**</b>", sep 
   (\(.)paste("- ", .))()
 
 saveRDS(confsumm_lyout_ITA, "input/sum_conf_ITA.RDS")
+
+
+##### le top dodici ###
+
+ltopd <- read.csv("input/letopdodici.csv")
+
+dod <- ltopd |> 
+  dplyr::select(-year, doi = DOI) |> 
+  left_join(sei) |> 
+  left_join(myscopus |>
+              select(doi = `prism:doi`, citedb = `citedby-count`) |>
+              mutate(doi = tolower(doi))) |> 
+  mutate(citedb = case_when(
+    is.na(citedb) ~ "0",
+    TRUE ~ citedb
+  )) |> 
+  mutate(citedb = as.numeric(citedb)) |> 
+  add_column(cnt = 1:12)
+
+
+banco <- paste0(
+  paste(
+    paste(dod$cnt, ") ", sep = ""),
+    dod$aut,
+    paste("(", dod$year, ")", sep = ""),
+    paste("**", dod$title, "**", sep = ""), "-",
+    paste("*", dod$journ, "*", sep = ""), "-", 
+    paste0(dod$vol,", "),
+    dod$ISSN, 
+    "- **doi:** ", dod$doi, 
+    "- **Role:** ", dod$AuthContr, " author",
+    "- **Quartile:** ", dod$Quartile, 
+    "- **IF:** ", dod$IF, 
+    "- **Cited by:** ", dod$citedb),
+  collapse = "\\newline  \n") |>
+  (\(.) gsub(" , ", "", .))()
+
+saveRDS(banco, "input/dodici_pub.RDS")

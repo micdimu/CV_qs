@@ -167,7 +167,7 @@ Lead and participate as a speaker to local initiatives to raise awareness of env
 
 -   **Ph.D. in Life and Environmental Science** \hfill <b>**Nov 2016 - Apr 2019**</b>\
     **SSD:** BIOS-01/C (ex BIO/03) **Dissertation:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Excellent cum laude**  \newline University of L’Aquila, L'Aquila, Italy. 
-        \newline <b>**Graduation date:**</b> 02 Apr 2020 
+        \newline <b>**Graduation date:**</b> 02 Apr 2020
         \newline <b>**Advisor:**</b> Prof. Anna Rita Frattaroli; 
         \newline <b>**Co-Advisor:**</b> Prof. Jean-Paul Theurillat
 
@@ -265,7 +265,7 @@ pubbl_other <- readRDS("input/other_publication.RDS")
 
 \vspace{5 mm}
 
-# Conferences
+# Congress and conferences
 
 -   **In brief**
 ```{r}
@@ -348,7 +348,7 @@ poster <- readRDS("input/poster.RDS")
 
 \vspace{0 mm}
 
-## ~The presented CV was made using only opensource software;~ \newline ~the list of publications and the bibliometrics indicators was automatically downloaded from Scopus~
+## ~The presented CV was made using only opensource software;~
 
 ------------------------------------------------------------------------
 

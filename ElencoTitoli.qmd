@@ -44,18 +44,29 @@ library(RefManageR)
 
 ## 03 Dottorato di Ricerca
 
--   **Dottorato di Ricerca in Scienze della Salute e dell'Ambiente** \hfill <b>**Nov 2016 - Ott 2019**</b>\
-    **SSD:** BIOS-01/C (ex BIO/03) **Titolo tesi:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Eccellente cum laude** \newline Università Degli Studi dell'Aquila, L'Aquila, Italia. \newline <b>**Supervisor:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Supervisor:**</b> Prof. Jean-Paul Theurillat
+-   **Dottorato di Ricerca in Scienze della Salute e dell'Ambiente** \hfill <b>**Nov 2016 - Apr 2020**</b>\
+    **SSD:** BIOS-01/C (ex BIO/03) **Titolo tesi:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' \newline Università Degli Studi dell'Aquila, L'Aquila, Italia. 
+    \newline <b>**Eccellente cum laude**</b> 
+    \newline <b>**Data di conseguimento:**</b> 02 Apr 2020
+    \newline <b>**Supervisor:**</b> Prof.ssa Anna Rita Frattaroli; 
+    \newline <b>**Co-Supervisor:**</b> Prof. Jean-Paul Theurillat
+
 
 ## 04 Laurea Triennale e Magistrale
 
 -   **Laurea a doppio titolo in Biologia Ambientale** \hfill <b>**Set 2014 - Lug 2016**</b>\
-    Magistrale in Biologia Ambientale (LM6), Università Degli Studi dell'Aquila, L’Aquila, Italia; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Titolo della tesi:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.' **110/110 cum laude.** \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Relatrice:**</b> Prof.ssa Angela Stanisci
+    Magistrale in Biologia Ambientale (LM6), Università Degli Studi dell'Aquila, L’Aquila, Italia; Master in Ecosciences, Parcours Ecologie, Evolution, Biométrie, Université Claude Bernard Lyon 1, Lyon, France. \newline <b>**Titolo della tesi:**</b> 'Vegetation analysis in the permanent plots of GLORIA project in Majella National Park: a synchronic approach to identify the key species for monitoring climate change.'  **110/110 cum laude.** 
+    \newline <b>**Data di conseguimento:**</b> 23 Lug 2016
+    \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; 
+    \newline <b>**Co-Relatrice:**</b> Prof.ssa Angela Stanisci
 
 -   **Laurea Triennale in Scienze e Tecnologie per l'Ambiente** \hfill <b>**Set 2011 - Lug 2014**</b>\
-    Triennale in Scienze e Tecnologie per l'Ambiente (L75), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo tesi:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; \newline <b>**Co-Relatore:**</b> Dott. Valter Di Cecco
-
-## 05 Coordinatore di progetti nazionali
+    Triennale in Scienze e Tecnologie per l'Ambiente (L75), Università Degli Studi dell'Aquila, L’Aquila, Italia. \newline <b>**Titolo tesi:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** 
+    \newline <b>**Data di conseguimento:**</b> 18 Lug 2014
+    \newline <b>**Relatrice:**</b> Prof.ssa Anna Rita Frattaroli; 
+    \newline <b>**Co-Relatore:**</b> Dott. Valter Di Cecco
+    
+## 05 Coordinatore di progetti
 
 -   **Responsabile di Unità** and Co-PI (Co-Principal Investigator) \newline
 **Prin 2022 PNRR** \hfill<b>**Nov 2023 – ad oggi**</b>\
