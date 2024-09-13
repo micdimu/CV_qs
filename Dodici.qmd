@@ -4,7 +4,7 @@ author: "Michele Di Musciano"
 fontawesome: yes
 date: today
 date-format: "DD MMMM YYYY"
-fontsize: 10pt
+fontsize: 11pt
 format: pdf
 editor: visual
 lang: it

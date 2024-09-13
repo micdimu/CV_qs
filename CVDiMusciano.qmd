@@ -348,11 +348,10 @@ poster <- readRDS("input/poster.RDS")
 
 \vspace{0 mm}
 
-## ~The presented CV was made using only opensource software;~
+## ~The presented CV was made using only opensource software.~
 
-------------------------------------------------------------------------
 
-\vspace{10 mm}
+\vspace{5 mm}
 
 ```{r}
 #| echo: FALSE

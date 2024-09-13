@@ -263,6 +263,7 @@ saveRDS(confsumm_lyout_ITA, "input/sum_conf_ITA.RDS")
 
 ltopd <- read.csv("input/letopdodici.csv")
 
+
 dod <- ltopd |> 
   dplyr::select(-year, doi = DOI) |> 
   left_join(sei) |> 
@@ -290,8 +291,10 @@ banco <- paste0(
     "- **Role:** ", dod$AuthContr, " author",
     "- **Quartile:** ", dod$Quartile, 
     "- **IF:** ", dod$IF, 
-    "- **Cited by:** ", dod$citedb),
+    "- **Cited by:** ", dod$citedb, " (scopus)"),
   collapse = "\\newline  \n") |>
   (\(.) gsub(" , ", "", .))()
 
 saveRDS(banco, "input/dodici_pub.RDS")
+
+### highly cited paper

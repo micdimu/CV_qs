@@ -112,7 +112,7 @@ conf_m <- gsub("\\newline \\newline",  "\n -  ", conf_m, fixed = T)
 
 ------------------------------------------------------------------------
 
-\vspace{15 mm}
+\vspace{5 mm}
 
 ```{r}
 #| echo: FALSE

@@ -1,13 +1,13 @@
-Journal,IF,Quartile,AuthContr,DOI,year
-Global Ecology and Biogeography,"6,3",Q1,Corresponding,10.1111/geb.13855,2024
-Conservation Biology,"5,2",Q1,Corresponding,10.1111/cobi.14212,2023
-Plant Biosystem,"1,7",Q2,First ,10.1080/11263504.2022.2089761,2022
-Flora,"1,7",Q2,Last,10.1016/j.flora.2023.152415,2023
-Holocene,"2,4",Q1,Equally first,10.1177/09596836221096292,2022
-Plant Ecology,"1,9",Q1,First ,10.1007/s11258-020-01009-0,2020
-Remote Sensing,"5,3",Q1,Last,10.3390/rs13101904,2021
-Ecology and Evolution,"3,2",Q1,Equally first,10.1002/ece3.8409,2021
-Fungal Ecology,"2,9",Q1,Equally first,10.1016/j.funeco.2022.101189,2022
-Perspectives in Plant Ecology Evolution and Systematic,"3,5",Q1,First ,10.1016/j.ppees.2024.125815,2024
-Plant Biology,"3,1",Q1,Corresponding,10.1111/plb.12844,2018
-Diversity,"2,1",Q2,First ,10.3390/d10030058,2018
+Journal,IF,Quartile,AuthContr,DOI,year,info
+Global Ecology and Biogeography,"6,3","Q1 Ecology; Q1 Ecology, Evolution, Behavior and Systematic",Corresponding,10.1111/geb.13855,2024,
+Conservation Biology,"5,2","Q1 Ecology; Q1 Ecology, Evolution, Behavior and Systematic; Q1 Nature and Landscape Conservation",Corresponding,10.1111/cobi.14212,2023,
+Plant Biosystem,"1,7",Q2 Plant science,First ,10.1080/11263504.2022.2089761,2022,
+Flora,"1,7",Q2 Plant science,Last,10.1016/j.flora.2023.152415,2023,
+Holocene,"2,4",Q1 Ecology,Equally first,10.1177/09596836221096292,2022,
+Plant Ecology,"1,9",Q2 Plant science,First ,10.1007/s11258-020-01009-0,2020,
+Remote Sensing,"5,3",Q1 Earth and planetary science,Last,10.3390/rs13101904,2021,
+Ecology and Evolution,"3,2","Q1 Ecology; Q1 Ecology, Evolution, Behavior and Systematic",Equally first,10.1002/ece3.8409,2021,Top Downloaded articles
+Fungal Ecology,"2,9",Q1 Plant science,Equally first,10.1016/j.funeco.2022.101189,2022,
+Perspectives in Plant Ecology Evolution and Systematic,"3,5",Q1 Plant science,First ,10.1016/j.ppees.2024.125815,2024,
+Plant Biology,"3,1",Q1 Plant science,Corresponding,10.1111/plb.12844,2018,
+Diversity,"2,1",Q2 Ecology Q2 Nature and Landscape Conservation,First ,10.3390/d10030058,2018,
