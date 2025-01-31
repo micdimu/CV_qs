@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 author: "Michele Di Musciano, Ph.D."
 position: ""
-address: "Assistant professor (RtdA) at the University of L'Aquila" 
+address: "Senior Assistant Professor (RTT) at the University of L'Aquila" 
 phone: + 39 3337432223
 email: michele.dimusciano@univaq.it
 github: micdimu
@@ -35,7 +35,9 @@ library(RefManageR)
 
 # Research Interests
 
-I am an environmental biologist, and researcher of applied botany at the University of L’Aquila, with a background in alpine ecology, ecological modelling, and plant traits. I am working on past and present factors shaping diversity patterns and processes of plant communities (vegetation) from micro to macro scale. Focusing mostly on mountain ecosystems, my principal aim is to disentangle the role of climate, topographic and anthropogenic factors on the taxonomic, functional, and phylogenetic composition and dissimilarity of plant communities. I'm currently working on topics related to conservation biology, trying to quantify the effectiveness of protected areas in conserving biodiversity. Last but not least, since 2023, I've joined projects focused on Islands, of which some aim to investigate the ecological dynamics of plant communities in small islands.
+I am an environmental biologist and researcher in applied botany at the University of L’Aquila, with a background in alpine ecology, ecological modeling, and plant trait analysis. My research focuses on understanding the past and present factors shaping diversity patterns and processes in plant communities from micro- to macro-scales .
+I am actively working on mountain ecosystems, aiming to disentangle the influence of microclimate, topography, and human activities on the multiple facets of plant biodiversity. 
+I am also engaged in conservation biology research, trying to assess the effectiveness of protected areas in preserving biodiversity. Since 2023, I have been involved in projects focused on island ecosystems, including ongoing studies investigating the ecological dynamics of plant communities in small islands.
 
 # Main research Topics
 
@@ -47,9 +49,8 @@ I am an environmental biologist, and researcher of applied botany at the Univers
 
 # Current work position
 
--   **Ricercatore a Tempo Determinato (RTD-a) - Assistant Professor** \hfill<b>**Feb 2022 - Today**</b>\
-    University of L'Aquila, L'Aquila - Member of the research Group in Laboratory of Cartography, Ecology and Modelling (LACEMOD) - Member of the research Group in Biodiversity and Macroecology (BIOME) Alma Mater Studiorum - University of Bologna **SSD:** BIOS-01/C (ex BIO/03). \newline
-    **Additional information:**</b>\ Ricercatore a tempo determinato lettera A) C. 3 ART. 24 L. 240/2010 - Programma Operativo Nazionale "Ricerca-Innovazione" 2014-2020 (PON) risorse FSE-REACT EU DM 10 agosto 2021, n. 1062; Azione IV.6 - Contratti di ricerca su tematiche Green - D.R. Rep. n. 1049/2021 Prot. N. 119177 del 19/11/2021 - CUP D.M. 1062/2021 E15F21004400001 - Project code: DM1062_GREEN_MESVA
+-   **Senior Assistant Professor (RTT) tenure track** \hfill<b>**Feb 2025 - Today**</b>\
+    University of L'Aquila, L'Aquila - Member of the research Group in Laboratory of Cartography, Ecology and Modelling (LACEMOD) - Member of the research Group in Biodiversity and Macroecology (BIOME) Alma Mater Studiorum - University of Bologna **GSD:** BIOS-01/C \newline
 
 # Qualification
 
@@ -57,11 +58,14 @@ I am an environmental biologist, and researcher of applied botany at the Univers
 
 # Accademic experience
 
+-   **Junior Assistant Professor (RTD-A)** \hfill<b>**Feb 2022 - Jan 2025**</b>\
+    University of L'Aquila, L'Aquila - Member of the research Group in Laboratory of Cartography, Ecology and Modelling (LACEMOD) - Member of the research Group in Biodiversity and Macroecology (BIOME) Alma Mater Studiorum - University of Bologna **GSD:** BIOS-01/C \newline <b>**Additional information:**</b> RTD-A - Ricercatore a tempo determinato lettera A) C. 3 ART. 24 L. 240/2010 - Programma Operativo Nazionale "Ricerca-Innovazione" 2014-2020 (PON) risorse FSE-REACT EU DM 10 08 2021, n. 1062; Azione IV.6 - Contratti di ricerca su tematiche Green - D.R. Rep. n. 1049/2021 Prot. N. 119177 del 19/11/2021 - CUP D.M. 1062/2021 E15F21004400001 - Project code: DM1062_GREEN_MESVA
+
 -   **Post-Doctoral fellowship** \hfill<b>**Sep 2020 – Jan 2022**</b>\
-    Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b>  Spatio-temporal dynamics in plant communities using innovative ecological modeling techniques. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
+    Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b>  Spatio-temporal dynamics in plant communities using innovative ecological modeling techniques. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **GSD:** BIOS-01/C.
 
 -   **Scholarship** \hfill<b>**Jun 2020 – Aug 2020**</b>\
-    Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b> Monitoring and prediction of habitat conservation status using ecological modelling. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **SSD:** BIOS-01/C (ex BIO/03).
+    Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b> Monitoring and prediction of habitat conservation status using ecological modelling. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **GSD:** BIOS-01/C.
 
 # Projects coordination
 
@@ -178,7 +182,7 @@ Lead and participate as a speaker to local initiatives to raise awareness of env
     \newline <b>**Co-Advisor:**</b> Prof. Angela Stanisci
 
 -   **Bachelor's Degree in Environmental Science and technology** \hfill <b>**Sep 2011 - Jul 2014**</b>\
-    Bachelor in Environmental Science and technology (L75), University of L’Aquila, L’Aquila, Italy. \newline <b>**Thesis title:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** 
+    Bachelor in Environmental Science and technology (L32), University of L’Aquila, L’Aquila, Italy. \newline <b>**Thesis title:**</b> Adattamenti morfo-fisiologici della flora d’alta quota con particolare riferimento all’endemismo Adonis distorta. **108/110.** 
     \newline <b>**Graduation date:**</b> 18 Lug 2014
     \newline <b>**Advisor:**</b> Prof. Anna Rita Frattaroli; 
     \newline <b>**Co-Advisor:**</b> Dott. Valter Di Cecco

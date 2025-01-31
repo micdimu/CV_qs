@@ -79,17 +79,17 @@ cinque <- bind_rows(cinque, flora_medit)|>
 
 ## add missing from scopus ##
 
-newpaperi <- bind_cols(
-  aut = "<b>**Di Musciano M.**</b>; Calvia G.; Ruggero A.; Farris E.; Ricci L.; Frattaroli A.R.; Bagella, S.", 
-  year = "2024", 
-  title = "Elevational patterns of species richness and phylogenetic diversity in a Mediterranean island", 
-  journ = "Perspectives in Plant Ecology, Evolution and Systematics", 
-  vol = "65", 
-  ISSN = "1433-8319", 
-  doi = "10.1016/j.ppees.2024.125815")
-
-cinque <- bind_rows(cinque, newpaperi)|> 
-  mutate(doi = tolower(doi)) 
+# newpaperi <- bind_cols(
+#   aut = "<b>**Di Musciano M.**</b>; Calvia G.; Ruggero A.; Farris E.; Ricci L.; Frattaroli A.R.; Bagella, S.", 
+#   year = "2024", 
+#   title = "Elevational patterns of species richness and phylogenetic diversity in a Mediterranean island", 
+#   journ = "Perspectives in Plant Ecology, Evolution and Systematics", 
+#   vol = "65", 
+#   ISSN = "1433-8319", 
+#   doi = "10.1016/j.ppees.2024.125815")
+# 
+# cinque <- bind_rows(cinque, newpaperi)|> 
+#   mutate(doi = tolower(doi)) 
 
 ## be carefull of NA presence ##
 
