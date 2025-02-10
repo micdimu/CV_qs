@@ -1,0 +1,168 @@
+---
+title: "Curriculum Vitae SV"
+author: "Michele Di Musciano, Ph.D."
+position: ""
+address: "Researcher Tenure Track (RTT) at the University of L'Aquila" 
+phone: + 39 3337432223
+email: michele.dimusciano@univaq.it
+github: micdimu
+orcid: 0000-0002-3130-7270
+fontawesome: yes
+date: "`r format(Sys.time(), '%d %b %Y')`"
+fontsize: 11pt
+format:
+  quarto-cv-pdf: default
+editor: visual
+bibliography: refs.bib
+bibliographystyle: apa
+---
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| context: server
+library(dplyr)
+library(ggplot2)
+library(tidyverse)
+library(vitae)
+library(rscopus)
+library(tidyverse)
+library(bibtex)
+library(rcrossref)    
+library(RefManageR)
+```
+
+# Research Interests
+
+I am an environmental biologist and researcher in applied botany at the University of L’Aquila, with a background in alpine ecology, ecological modeling, and plant trait analysis. My research focuses on understanding the past and present factors shaping diversity patterns and processes in plant communities from micro- to macro-scales .
+I am actively working on mountain ecosystems, aiming to disentangle the influence of microclimate, topography, and human activities on the multiple facets of plant biodiversity. 
+I am also engaged in conservation biology research, trying to assess the effectiveness of protected areas in preserving biodiversity. Since 2023, I have been involved in projects focused on island ecosystems, including ongoing studies investigating the ecological dynamics of plant communities in small islands.
+
+# Main research Topics
+
+1)  Alpine ecology;
+2)  Ecological modelling;
+3)  Conservation Biology;
+4)  Vegetation science;
+5)  Island Biogeography.
+
+# Current work position
+
+-   **Researcher Tenure Track (RTT) tenure track** \hfill<b>**Feb 2025 - Today**</b>\
+    University of L'Aquila, L'Aquila - Member of the research Group in Laboratory of Cartography, Ecology and Modelling (LACEMOD) - Member of the research Group in Biodiversity and Macroecology (BIOME) Alma Mater Studiorum - University of Bologna **SSD:** BIOS-01/C \newline
+
+# Qualification
+
+-   **Italian National Scientific Habilitation (ASN)** \newline 2nd Level - Botany - 05/BIOS-01 (ex 05/A1) \hfill<b>**Since 02 Dec 2023**</b>
+
+# Accademic experience
+
+-   **Resarcher fixed term (RTD-A)** \hfill<b>**Feb 2022 - Jan 2025**</b>\
+    University of L'Aquila, L'Aquila - Member of the research Group in Laboratory of Cartography, Ecology and Modelling (LACEMOD) - Member of the research Group in Biodiversity and Macroecology (BIOME) Alma Mater Studiorum - University of Bologna **SSD:** BIOS-01/C \newline <b>**Additional information:**</b> RTD-A - Ricercatore a tempo determinato lettera A) C. 3 ART. 24 L. 240/2010 - Programma Operativo Nazionale "Ricerca-Innovazione" 2014-2020 (PON) risorse FSE-REACT EU DM 10 08 2021, n. 1062; Azione IV.6 - Contratti di ricerca su tematiche Green - D.R. Rep. n. 1049/2021 Prot. N. 119177 del 19/11/2021 - CUP D.M. 1062/2021 E15F21004400001 - Project code: DM1062_GREEN_MESVA
+
+-   **Post-Doctoral fellowship** \hfill<b>**Sep 2020 – Jan 2022**</b>\
+    Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b>  Spatio-temporal dynamics in plant communities using innovative ecological modeling techniques. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **SSD:** BIOS-01/C.
+
+-   **Scholarship** \hfill<b>**Jun 2020 – Aug 2020**</b>\
+    Department of Life, Health and Environmental Sciences (MESVA), University of L’Aquila, L’Aquila, Italy. \newline <b>**Title:**</b> Monitoring and prediction of habitat conservation status using ecological modelling. \newline <b>**Tutor:**</b> Prof. Anna Rita Frattaroli **SSD:** BIOS-01/C.
+    
+-   **Ph.D. in Life and Environmental Science** \hfill <b>**Nov 2016 - Apr 2019**</b>\
+    **SSD:** BIOS-01/C (ex BIO/03) **Dissertation:** 'Elevation gradient of vascular plant distribution in the Central Apennines: diversity patterns and potential impact of global change.' **Excellent cum laude**  \newline University of L’Aquila, L'Aquila, Italy. 
+        \newline <b>**Graduation date:**</b> 02 Apr 2020
+        \newline <b>**Advisor:**</b> Prof. Anna Rita Frattaroli; 
+        \newline <b>**Co-Advisor:**</b> Prof. Jean-Paul Theurillat
+
+
+# Projects coordination
+
+-   **Unit leader** and Co-PI (Co-Principal Investigator) **Prin 2022 PNRR** \hfill<b>**Nov 2023 – ongoing**</b>\
+    **Title:** Plant Biodiversity and Ecosystem Change in protected Areas: land Use impacts and Scenario Evaluatio. **PI:** Prof. Francesco Maria Sabatini (University of Bologna). **D.D. n.** 1370 - 01-09-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** P2022JM3RZ. **CUP:** E53D23013800001 **Budget:** 94.007,00 € - Competitive Research Funding -
+
+-   **Unit leader** and Co-PI (Co-Principal Investigator) **Prin 2022** \hfill<b>**Sep 2023 – ongoing**</b>\
+    **Title:** Identification of priority sites for the conservation of terrestrial animal and plant diversity to meet European and CBD 2030 targets. **PI:** Prof. Roberto Cazzolla Gatti (University of Bologna). **D.D. n.** 739 - 29-05-2023. **Macro-sector:** Life Sciences. **Sector:** LS8 - Environmental Biology, Ecology and Evolution. **Code:** 2022C8E2F4. **CUP:** E53D23007530006 **Budget:** 39.000,00 € - Competitive Research Funding -
+
+-   **Principal investigator - University project for basic research** \hfill<b>**May 2022 – Dec 2022**</b>\
+    **Title:** Understanding, predicting, and mitigating the impact of climate change consequences on high-altitude biodiversity in the central Apennines using a multitaxonic approach. **Funded by:** University of L'Aquila **Budget:** 15.000,00 €
+
+------------------------------------------------------------------------
+
+# Academic activities
+
+## **In brief**
+-   <b>**Summary of the teaching activities in the last 3 AYs**</b> \newline <i>Courses primarily focused on Applied Botany and Data Analysis & Management</i> \newline - \hspace{1 mm} AY 2023/24 **100h** bachelor and master degrees + **10h** Ph.D. school \newline - \hspace{1 mm} AY 2022/23 **90h** bachelor and master degrees + **14h** Ph.D. school \newline  - \hspace{1 mm} AY 2021/22 **32h** bachelor and master degrees + **16h** Ph.D. school
+
+## **Data Management Skills**
+-   Proficient in **data management and analysis**. \newline
+Proficient in results **visualization and reporting**. \newline
+Deep knowledge of the **statistical analysis applied to ecology**. \newline
+A wide experience in **ecological modelling**. \newline
+Excellent knowledge of **R language** and good of Phyton and Julia. \newline
+Proficient in GIS program: **QGIS and ArcGIS**. \newline
+A wide experience in satellite image management: **Google Earth Engine**. \newline
+Good knowledge of image analysis: **ImageJ, Gimp, Adobe Photoshop**. \newline
+
+## **Field & Lab. skills**
+-   Proficient in plant species and **vegetation monitoring**. \newline
+Deep knowledge of **fieldwork**, with more than 10 years of experience in high-altitude environments. \newline
+A wide experience in **plant traits** collection. \newline
+Excellent knowledge of **datalogger management** mainly applied to air and soil temperature and/or humidity. \newline
+A little experience in **arthropod sampling**. \newline
+
+------------------------------------------------------------------------
+
+# Publications
+
+## **Bibliometrics indicators**
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+bblio_ind <- readRDS("input/bblio_ind.RDS")
+
+```
+
+-   `r bblio_ind`
+
+# Congress and conferences
+
+-   **In brief**
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| output: false
+
+sum_conf <- readRDS("input/sum_conf.RDS")
+
+```
+
+`r sum_conf`
+
+
+\vspace{5 mm}
+
+```{r}
+#| echo: FALSE
+#| fig-align: center
+# layout-ncol: 2
+# layout: "[-1, 1]"
+
+dovqun <- paste("- <b>**L'Aquila**</b>", "\\newline", 
+                paste("<b>**", format(Sys.time(), '%d/%m/%Y'), "**</b>", sep = ""))
+```
+
+`r dovqun` \hspace{103 mm} <b>**Signature**</b>
+
+```{r}
+#| echo: FALSE
+#| fig-align: right
+# layout-ncol: 2
+# layout: "[-1, 1]"
+
+knitr::include_graphics("input/firmaMichele_nb.png", dpi = 400) 
+
+```
