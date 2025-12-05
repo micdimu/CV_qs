@@ -1,0 +1,92 @@
+---
+title: "Michele Di Musciano – Short CV"
+author: "Michele Di Musciano"
+format:
+  pdf:
+    toc: true
+    number-sections: false
+    colorlinks: true
+    geometry: margin=2.5cm
+    keep-tex: true
+editor: visual
+---
+
+# Michele Di Musciano
+
+*Environmental biologist and Assistant Professor in Applied Botany*
+
+[Email](mailto:michele.dimusciano@univaq.it) / [GitHub](https://github.com/micdimu) / [ORCID](https://orcid.org/0000-0002-3130-7270)
+
+## 🧪 Research Interests
+
+Plant community ecology, conservation biology, ecological modeling, mountain and island biodiversity. Focus on understanding diversity patterns and ecological processes under global change using field-based and modeling approaches.
+
+## 🧰 Current Position
+
+**Senior Assistant Professor (RTT)** – University of L’Aquila (Feb 2025 – Present)\
+Member of LACEMOD (L’Aquila) and BIOME (University of Bologna)
+
+## 📊 Key Projects
+
+**Co-PI – PRIN 2022 PNRR** (Nov 2023 – ongoing)\
+*Plant Biodiversity and Ecosystem Change in protected Areas* (Budget: €94,007)
+
+**Co-PI – PRIN 2022** (Sep 2023 – ongoing)\
+*Priority sites for conservation to meet CBD 2030 targets* (Budget: €39,000)
+
+**PI – Local Project** (2022)\
+*Climate change impacts on high-altitude biodiversity in the Apennines* (Budget: €15,000)
+
+**Coordinator – MIREN Rock Central Apennines** (2024 – ongoing)\
+**Partner – Horizon Europe B3**, **Traceve**, **GLORIA ITCAM**, **SoilTemp**
+
+## 📚 Selected Publications
+
+-   Di Musciano et al. (2024). *Elevational patterns of plant diversity on a Mediterranean island*, PPEES\
+-   Ricci, Di Musciano et al. (2024). *Effectiveness of Natura 2000*, Conservation Biology\
+-   Kemppinen, Di Musciano et al. (2024). *Microclimate and biogeography*, GEB\
+-   Lussu, Di Musciano et al. (2024). *Terrestrial orchids conservation*, Biological Conservation
+
+Full list available on [ORCID](https://orcid.org/0000-0002-3130-7270)
+
+## 👨‍🏫 Academic Teaching & Supervision
+
+-   Lecturer in: Environmental Botany, Evolutionary Botany, Ecological Modelling, R for Ecology\
+-   PhD Co-supervisor: 3 candidates (UnivAQ and UNIBO, 2022–ongoing)\
+-   PhD Lecturer: Biostatistics, Data Management & Visualization with R
+
+## 🗣️ Conferences & Presentations
+
+Speaker and organizer in major international and national congresses: - ECCB 2024 (Bologna) - SBI 2024 (Teramo) - MPCW 2023 (Valencia) - IAVS 2023 (Australia) - MEB 2022 (Antwerp)
+
+## 🎓 Academic Background
+
+**Ph.D. in Environmental Sciences** – University of L’Aquila (2019)\
+*Dissertation: Elevational gradients of vascular plants in the Apennines*
+
+**MSc in Environmental Biology / MSc in Ecosciences** – University of L’Aquila & Université Claude Bernard Lyon 1 (2016)\
+*110/110 cum laude – Thesis on GLORIA project and climate change*
+
+**BSc in Environmental Science and Technology** – University of L’Aquila (2014)
+
+## 🧠 Technical Skills
+
+-   R (advanced), Python, Julia (basic)\
+-   Ecological modelling, statistical analysis, data visualization\
+-   GIS: QGIS, ArcGIS, GEE, remote sensing\
+-   Fieldwork: vegetation surveys, dataloggers, plant traits monitoring
+
+## 🌱 Other Activities
+
+-   Member: GLORIA, MIREN, SoilTemp, TracEve\
+-   Science communication: "Researchers’ Night", PLS outreach\
+-   Supervised \>10 MSc and \>20 BSc theses
+
+## 🗣️ Languages
+
+**Italian**: Native\
+**English**: Fluent
+
+## 📄 Personal Data
+
+I authorize the processing of my personal data pursuant to Legislative Decree 196/2003 and GDPR (EU Regulation 2016/679).
